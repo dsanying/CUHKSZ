@@ -1,3 +1,3 @@
-var posts=["CEC1000/","CSC1003/","DDA2001/","ENG1002/","CSC1004/","ENG1001/","IT-guide/","MAT1002/","MAT2041/","STA2001/","PHY1001/","about/","contact-school/","course-evaluation/","lgu-guide-1/","lgu-guide-3/","lgu-guide-2/","timeline/","map/"];function toRandomPost(){
+var posts=["CEC1000/","CEC2000/","CSC1001/","CSC1002/","CHM1001/","CSC1004/","DDA2001/","ENG1002/","CSC1003/","GFN1000/","ENG1001/","MAT1001/","IT-guide/","MAT1002/","MAT2041/","MAT2040/","STA2001/","PHY1001/","about/","contact-school/","PED/","lgu-guide-1/","course-evaluation/","lgu-guide-2/","timeline/","lgu-guide-3/","map/"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
   };
