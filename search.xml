@@ -23,44 +23,6 @@
     
     
     <entry>
-      <title>CSC1002</title>
-      <link href="/cuhksz/CSC1002/"/>
-      <url>/cuhksz/CSC1002/</url>
-      
-        <content type="html"><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><blockquote><p>课程英文名: Computational Laboratory<br>课程中文名: 计算机实验<br>课程评分: Graded<br>课程描述: 此课程帮助学生通过实际使用 Python 编程语言和其他相关的开发工具和库来更好地掌握软件编程技能。课程将涵盖不同难度和类别的编程任务，需要使用数据结构、函数、模块和类等编程概念。</p></blockquote><h2 id="免费资源-点击对应板块跳转"><a href="#免费资源-点击对应板块跳转" class="headerlink" title="免费资源(点击对应板块跳转)"></a>免费资源(点击对应板块跳转)</h2><blockquote><p><a href="https://github.com/dsanying/CUHKSZ_course/tree/main/CSC1002/Courseware">课件</a></p></blockquote><h2 id="课程评价"><a href="#课程评价" class="headerlink" title="课程评价"></a>课程评价</h2><p><a href="https://dsanying.github.io/cuhksz/course-evaluation/">点此跳转</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 课程 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>CSC1001</title>
-      <link href="/cuhksz/CSC1001/"/>
-      <url>/cuhksz/CSC1001/</url>
-      
-        <content type="html"><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><blockquote><p>课程英文名: Introduction to CS<br>课程中文名: 计算机科学导论：程序设计方法<br>课程评分: Graded<br>课程描述: 此课程基于 Python 编程语言讲授计算机编程基础。学生将学习到现代计算机系统的基本组成，重要的编程概念，解决问题的方法和基本的算法设计。本课程的主要内容包括了 Python 语言的基本语法，数据类型，运算符，程序流控制，定义和使用函数，输入输出，数据结构和算法，以及面向对象编程的基础知识。此课程将为以后学习进阶的计算课程打下基础。</p></blockquote><h2 id="免费资源-点击对应板块跳转"><a href="#免费资源-点击对应板块跳转" class="headerlink" title="免费资源(点击对应板块跳转)"></a>免费资源(点击对应板块跳转)</h2><blockquote><p><a href="https://github.com/dsanying/CUHKSZ_course/tree/main/CSC1001/Courseware">课件</a></p></blockquote><h2 id="课程评价"><a href="#课程评价" class="headerlink" title="课程评价"></a>课程评价</h2><p><a href="https://dsanying.github.io/cuhksz/course-evaluation/">点此跳转</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 课程 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>CEC2000</title>
       <link href="/cuhksz/CEC2000/"/>
       <url>/cuhksz/CEC2000/</url>
@@ -99,49 +61,11 @@
     
     
     <entry>
-      <title>GFN1000</title>
-      <link href="/cuhksz/GFN1000/"/>
-      <url>/cuhksz/GFN1000/</url>
-      
-        <content type="html"><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><blockquote><p>课程英文名: In Dialogue with Nature<br>课程中文名: 与自然对话<br>课程评分: Graded<br>课程描述: 自远古开始，人类就对大自然充满好奇。古希腊哲人开展了以理性探索物理世界和生命世界的传统，为现代科学奠定了基础。科学家发现了物理定律、生命法则，甚至控制生命的方法。这些发现，促使我们重新审视人类如何理解自己的理解。在地球的这一边，中国哲人却发展了一套与西方不同的世界观。比较中西世界观，将会加深我们对两者的认识。本科让同学认识并比较中西科学发展，了解人类如何探索、认识，以至改变大自然，认识及比较科学在西方和中国的发展，并反思人在大自然中的地位。老师将从多部影响深远的典籍中，选辑一系列篇章，供学员阅读和分析。这些篇章涉及哲学、科学及其历史等不同范畴。本科著重提升同学读原典、论原典的能力。同学须发挥批判思维，就指定篇章进行深入讨论，并提交论文，表述个人反思和分析的结果。</p></blockquote><h2 id="免费资源-点击对应板块跳转"><a href="#免费资源-点击对应板块跳转" class="headerlink" title="免费资源(点击对应板块跳转)"></a>免费资源(点击对应板块跳转)</h2><blockquote><p><a href="https://github.com/dsanying/CUHKSZ_course/tree/main/GFN1000/Courseware">课件</a></p></blockquote><h2 id="课程评价"><a href="#课程评价" class="headerlink" title="课程评价"></a>课程评价</h2><p><a href="https://dsanying.github.io/cuhksz/course-evaluation/">点此跳转</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 课程 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>MAT1001</title>
       <link href="/cuhksz/MAT1001/"/>
       <url>/cuhksz/MAT1001/</url>
       
-        <content type="html"><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><blockquote><p>课程英文名: Calculus I<br>课程中文名: 微积分（一）<br>课程评分: Graded<br>课程描述: 本课程教授一元微积分，强调对微积分的直观和概念性的理解，培养学生的计算能力和应用微积分解决数学与实际问题的意识和能力。</p></blockquote><h2 id="免费资源-点击对应板块跳转"><a href="#免费资源-点击对应板块跳转" class="headerlink" title="免费资源(点击对应板块跳转)"></a>免费资源(点击对应板块跳转)</h2><blockquote><p><a href="https://github.com/dsanying/CUHKSZ_course/tree/main/MAT1001/Courseware">课件</a><br><a href="https://github.com/dsanying/CUHKSZ_course/tree/main/MAT1001/Exam">试卷</a></p></blockquote><h2 id="课程评价"><a href="#课程评价" class="headerlink" title="课程评价"></a>课程评价</h2><p><a href="https://dsanying.github.io/cuhksz/course-evaluation/">点此跳转</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 课程 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>MAT2040</title>
-      <link href="/cuhksz/MAT2040/"/>
-      <url>/cuhksz/MAT2040/</url>
-      
-        <content type="html"><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><blockquote><p>课程英文名: Linear Algebra<br>课程中文名: 线性代数<br>课程评分: Graded<br>课程描述: 本课程旨在介绍线性代数的基础概念和方法。内容包括：线性系统，矩阵，向量，向量空间，行列式，线性变换，正交性，特征理论，二次型和奇异值分解。</p></blockquote><h2 id="免费资源-点击对应板块跳转"><a href="#免费资源-点击对应板块跳转" class="headerlink" title="免费资源(点击对应板块跳转)"></a>免费资源(点击对应板块跳转)</h2><blockquote><p><a href="https://github.com/dsanying/CUHKSZ_course/tree/main/MAT2040/Courseware">课件</a></p></blockquote><h2 id="课程评价"><a href="#课程评价" class="headerlink" title="课程评价"></a>课程评价</h2><p><a href="https://dsanying.github.io/cuhksz/course-evaluation/">点此跳转</a></p>]]></content>
+        <content type="html"><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><blockquote><p>课程英文名: Calculus I<br>课程中文名: 微积分（一）<br>课程评分: Graded<br>课程描述: 本课程教授一元微积分，强调对微积分的直观和概念性的理解，培养学生的计算能力和应用微积分解决数学与实际问题的意识和能力。</p></blockquote><h2 id="免费资源-点击对应板块跳转"><a href="#免费资源-点击对应板块跳转" class="headerlink" title="免费资源(点击对应板块跳转)"></a>免费资源(点击对应板块跳转)</h2><blockquote><p><a href="https://github.com/dsanying/CUHKSZ_course/tree/main/MAT1001/Exam">试卷</a></p></blockquote><h2 id="课程评价"><a href="#课程评价" class="headerlink" title="课程评价"></a>课程评价</h2><p><a href="https://dsanying.github.io/cuhksz/course-evaluation/">点此跳转</a></p>]]></content>
       
       
       <categories>
@@ -299,26 +223,7 @@
       <link href="/cuhksz/CSC1003/"/>
       <url>/cuhksz/CSC1003/</url>
       
-        <content type="html"><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><blockquote><p>课程英文名: Intro to CS and JP<br>课程中文名: 计算机科学与Java 程序设计导论<br>课程评分: Graded<br>课程描述: 本课程介绍计算机科学基本概念及Java程序设计，内容包括：程序设计基本元素（变量、赋值、内嵌数据类型、条件和选择语句等）、函数（强调分而治之的编写和维护方法）、面向对象的程序设计（基于Java类机制讲述和实现）、计算机科学基础（基本数据结构、算法、其它常用语言如Python）等。</p></blockquote><h2 id="免费资源-点击对应板块跳转"><a href="#免费资源-点击对应板块跳转" class="headerlink" title="免费资源(点击对应板块跳转)"></a>免费资源(点击对应板块跳转)</h2><blockquote><p><a href="https://github.com/dsanying/CUHKSZ_course/tree/main/CSC1003/Courseware">课件</a><br><a href="https://github.com/dsanying/CUHKSZ_course/tree/main/CSC1003/Exam">试卷</a></p></blockquote><h2 id="课程评价"><a href="#课程评价" class="headerlink" title="课程评价"></a>课程评价</h2><p><a href="https://dsanying.github.io/cuhksz/course-evaluation/">点此跳转</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 课程 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>CSC1004</title>
-      <link href="/cuhksz/CSC1004/"/>
-      <url>/cuhksz/CSC1004/</url>
-      
-        <content type="html"><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><blockquote><p>课程英文名: CLUJ<br>课程中文名: Java程序设计实验<br>课程评分: Graded<br>课程描述: 本课程是一门计算实验课程，旨在加强学生的编程技能。学生应该在上个学期学习CSC1003，在那里他们学习有关Java和Python编程的基本知识。 在这个课程中，每个学生都应该单独实现1）一个中型Java项目（2000-5000行代码）。2）. 一个较小的 Python 项目（200-500 行）。每个学生将在学期开始时从课程教师和助教提供的主题列表中选择一个项目，并在学期结束时提交满足要求的可执行程序、源代码和必要文档。课程的学生将从与课程导师和助教的定期会议中获得一致的支持，而独立学习和实践更为重要！</p></blockquote><h2 id="免费资源-点击对应板块跳转"><a href="#免费资源-点击对应板块跳转" class="headerlink" title="免费资源(点击对应板块跳转)"></a>免费资源(点击对应板块跳转)</h2><blockquote><p><a href="https://guiliang.github.io/courses/cuhk-csc-1004/csc_1004.html">课件</a></p></blockquote><h2 id="课程评价"><a href="#课程评价" class="headerlink" title="课程评价"></a>课程评价</h2><p><a href="https://dsanying.github.io/cuhksz/course-evaluation/">点此跳转</a></p>]]></content>
+        <content type="html"><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><blockquote><p>课程英文名: Intro to CS and JP<br>课程中文名: 计算机科学与Java 程序设计导论<br>课程评分: Graded<br>课程描述: 本课程介绍计算机科学基本概念及Java程序设计，内容包括：程序设计基本元素（变量、赋值、内嵌数据类型、条件和选择语句等）、函数（强调分而治之的编写和维护方法）、面向对象的程序设计（基于Java类机制讲述和实现）、计算机科学基础（基本数据结构、算法、其它常用语言如Python）等。</p></blockquote><h2 id="免费资源-点击对应板块跳转"><a href="#免费资源-点击对应板块跳转" class="headerlink" title="免费资源(点击对应板块跳转)"></a>免费资源(点击对应板块跳转)</h2><blockquote><p><a href="https://github.com/dsanying/CUHKSZ_course/tree/main/CSC1003/Exam">试卷</a></p></blockquote><h2 id="课程评价"><a href="#课程评价" class="headerlink" title="课程评价"></a>课程评价</h2><p><a href="https://dsanying.github.io/cuhksz/course-evaluation/">点此跳转</a></p>]]></content>
       
       
       <categories>
@@ -350,45 +255,7 @@
       <link href="/cuhksz/DDA2001/"/>
       <url>/cuhksz/DDA2001/</url>
       
-        <content type="html"><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><blockquote><p>课程英文名: Introduction to Data Science<br>课程中文名: 数据科学基础<br>课程评分: Graded<br>课程描述: 本课程将介绍数据科学的各个领域。它将让学生了解数据科学在我们社会中的巨大应用。在学习过程中，该课程还将介绍不同的工具在数据科学领域中的应用。课程将会邀请到学院和不同研究领域的教授。</p></blockquote><h2 id="免费资源-点击对应板块跳转"><a href="#免费资源-点击对应板块跳转" class="headerlink" title="免费资源(点击对应板块跳转)"></a>免费资源(点击对应板块跳转)</h2><blockquote><p><a href="https://github.com/dsanying/CUHKSZ_course/tree/main/DDA2001/Courseware">课件</a><br><a href="https://github.com/dsanying/CUHKSZ_course/tree/main/DDA2001/Exam">试卷</a></p></blockquote><h2 id="课程评价"><a href="#课程评价" class="headerlink" title="课程评价"></a>课程评价</h2><p><a href="https://dsanying.github.io/cuhksz/course-evaluation/">点此跳转</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 课程 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>ENG1002</title>
-      <link href="/cuhksz/ENG1002/"/>
-      <url>/cuhksz/ENG1002/</url>
-      
-        <content type="html"><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><blockquote><p>课程英文名: English for Academic Purposes<br>课程中文名: 学术英语（一）<br>课程评分: Graded<br>课程描述: 学术英语(一)是两门学术英语课程中的第一门，面向除语言专业和医科学生之外的所有本科生开放，课程将继续培养学生的英语听说读写能力。学生将从ENG1001课程中学习的个人表达性文章转向学习更加复杂的第三人称文章，包括因果论文和议论文。课程将继续提高学生的语法、标点、拼写和词汇知识，同时也会关注更为复杂的知识点，包括内段衔接、段落之间和段落内观点之间的衔接、细节的运用、引用和示例、学术研究以及逻辑和信息逻辑应用。课程还将提高学生英语阅读和听力理解能力、口语能力和学习能力。</p></blockquote><h2 id="免费资源-点击对应板块跳转"><a href="#免费资源-点击对应板块跳转" class="headerlink" title="免费资源(点击对应板块跳转)"></a>免费资源(点击对应板块跳转)</h2><blockquote><p><a href="https://github.com/dsanying/CUHKSZ_course/tree/main/ENG1002/Courseware">课件</a></p></blockquote><h2 id="课程评价"><a href="#课程评价" class="headerlink" title="课程评价"></a>课程评价</h2><p><a href="https://dsanying.github.io/cuhksz/course-evaluation/">点此跳转</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 课程 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>ENG1001</title>
-      <link href="/cuhksz/ENG1001/"/>
-      <url>/cuhksz/ENG1001/</url>
-      
-        <content type="html"><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><blockquote><p>课程英文名: English Bridge Program (EBP)<br>课程中文名: 基础英语<br>课程评分: Graded<br>课程描述: 基础英语课程(EBP)作为英语课程系列（共四门）中的第一门，旨在提高学生的英语听说读写能力。课程目标是学生能够使用英语在学术环境中进行准确、有效且自信的沟通。为实现这一目标，本课程将通过融合听说读写各项技能的系列作业来帮助学生系统地学习英语。各项作业由浅入深、循序渐进，不断增加学生所学知识与技巧。课程将涵盖词形、句子语法、写作过程、段落和文章组织、写作风格、基本引用、阅读技巧、听力技巧和演讲技巧等一系列重要内容。本课程为学生精选了以主题分类的富有挑战性的阅读材料和视频，能帮助学生提高阅读和听力水平。学生将把阅读和听力技巧运用到课堂上对指定材料及短文写作作业的讨论中。教师通过向每位学生提供这些写作及口语作业的反馈，帮助学生提高口语和写作能力。学期中，学生将在课堂上进行写作训练，并撰写一篇表达性论文（计分）和一篇回应性论文（计分）。学生还会进行演讲练习，并进行一次正式课堂演讲（计分）以及期末听力及阅读考试。</p></blockquote><h2 id="免费资源-点击对应板块跳转"><a href="#免费资源-点击对应板块跳转" class="headerlink" title="免费资源(点击对应板块跳转)"></a>免费资源(点击对应板块跳转)</h2><blockquote><p><a href="https://github.com/dsanying/CUHKSZ_course/tree/main/ENG1001/Courseware">课件</a></p></blockquote><h2 id="课程评价"><a href="#课程评价" class="headerlink" title="课程评价"></a>课程评价</h2><p><a href="https://dsanying.github.io/cuhksz/course-evaluation/">点此跳转</a></p>]]></content>
+        <content type="html"><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><blockquote><p>课程英文名: Introduction to Data Science<br>课程中文名: 数据科学基础<br>课程评分: Graded<br>课程描述: 本课程将介绍数据科学的各个领域。它将让学生了解数据科学在我们社会中的巨大应用。在学习过程中，该课程还将介绍不同的工具在数据科学领域中的应用。课程将会邀请到学院和不同研究领域的教授。</p></blockquote><h2 id="免费资源-点击对应板块跳转"><a href="#免费资源-点击对应板块跳转" class="headerlink" title="免费资源(点击对应板块跳转)"></a>免费资源(点击对应板块跳转)</h2><blockquote><p><a href="https://github.com/dsanying/CUHKSZ_course/tree/main/DDA2001/Exam">试卷</a></p></blockquote><h2 id="课程评价"><a href="#课程评价" class="headerlink" title="课程评价"></a>课程评价</h2><p><a href="https://dsanying.github.io/cuhksz/course-evaluation/">点此跳转</a></p>]]></content>
       
       
       <categories>
@@ -426,7 +293,7 @@
       <link href="/cuhksz/MAT1002/"/>
       <url>/cuhksz/MAT1002/</url>
       
-        <content type="html"><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><blockquote><p>课程英文名: Calculus II<br>课程中文名: 微积分（二）<br>课程评分: Graded<br>课程描述: 本课程是微积分（一）之延续，将覆盖级数与多元微积分。本课强调对微积分的直观和概念性的理解，培养学生的计算能力和应用微积分解决数学与实际问题的意识和能力。</p></blockquote><h2 id="免费资源-点击对应板块跳转"><a href="#免费资源-点击对应板块跳转" class="headerlink" title="免费资源(点击对应板块跳转)"></a>免费资源(点击对应板块跳转)</h2><blockquote><p><a href="https://github.com/dsanying/CUHKSZ_course/tree/main/MAT1002/Courseware">课件</a><br><a href="https://cocalc.com/share/projects/3f43427d-8c45-4906-8aa5-1f47c255dc41">课堂讲稿（可视化与互动）</a><br><a href="https://github.com/dsanying/CUHKSZ_course/tree/main/MAT1002/Exam">试卷</a></p></blockquote><h2 id="课程评价"><a href="#课程评价" class="headerlink" title="课程评价"></a>课程评价</h2><p><a href="https://dsanying.github.io/cuhksz/course-evaluation/">点此跳转</a></p>]]></content>
+        <content type="html"><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><blockquote><p>课程英文名: Calculus II<br>课程中文名: 微积分（二）<br>课程评分: Graded<br>课程描述: 本课程是微积分（一）之延续，将覆盖级数与多元微积分。本课强调对微积分的直观和概念性的理解，培养学生的计算能力和应用微积分解决数学与实际问题的意识和能力。</p></blockquote><h2 id="免费资源-点击对应板块跳转"><a href="#免费资源-点击对应板块跳转" class="headerlink" title="免费资源(点击对应板块跳转)"></a>免费资源(点击对应板块跳转)</h2><blockquote><p><a href="https://cocalc.com/share/projects/3f43427d-8c45-4906-8aa5-1f47c255dc41">课堂讲稿（可视化与互动）</a><br><a href="https://github.com/dsanying/CUHKSZ_course/tree/main/MAT1002/Exam">试卷</a></p></blockquote><h2 id="课程评价"><a href="#课程评价" class="headerlink" title="课程评价"></a>课程评价</h2><p><a href="https://dsanying.github.io/cuhksz/course-evaluation/">点此跳转</a></p>]]></content>
       
       
       <categories>
@@ -445,7 +312,7 @@
       <link href="/cuhksz/PHY1001/"/>
       <url>/cuhksz/PHY1001/</url>
       
-        <content type="html"><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><blockquote><p>课程英文名: Mechanics<br>课程中文名: 力学<br>课程评分: Graded<br>课程描述: 这是一门基于微积分的力学为主的基础工程物理课程，内容包括：力学中使用的物理单位和矢量概念，力和运动，功和动能，势能和能量守恒，动量和冲量，力矩和转动，力的平衡和弹性，流体，振动和机械波。</p></blockquote><h2 id="免费资源-点击对应板块跳转"><a href="#免费资源-点击对应板块跳转" class="headerlink" title="免费资源(点击对应板块跳转)"></a>免费资源(点击对应板块跳转)</h2><blockquote><p><a href="https://github.com/dsanying/CUHKSZ_course/tree/main/PHY1001/Courseware">课件</a><br><a href="https://github.com/dsanying/CUHKSZ_course/tree/main/PHY1001/Exam">试卷</a></p></blockquote><h2 id="课程评价"><a href="#课程评价" class="headerlink" title="课程评价"></a>课程评价</h2><p><a href="https://dsanying.github.io/cuhksz/course-evaluation/">点此跳转</a></p>]]></content>
+        <content type="html"><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><blockquote><p>课程英文名: Mechanics<br>课程中文名: 力学<br>课程评分: Graded<br>课程描述: 这是一门基于微积分的力学为主的基础工程物理课程，内容包括：力学中使用的物理单位和矢量概念，力和运动，功和动能，势能和能量守恒，动量和冲量，力矩和转动，力的平衡和弹性，流体，振动和机械波。</p></blockquote><h2 id="免费资源-点击对应板块跳转"><a href="#免费资源-点击对应板块跳转" class="headerlink" title="免费资源(点击对应板块跳转)"></a>免费资源(点击对应板块跳转)</h2><blockquote><p><a href="https://github.com/dsanying/CUHKSZ_course/tree/main/PHY1001/Exam">试卷</a></p></blockquote><h2 id="课程评价"><a href="#课程评价" class="headerlink" title="课程评价"></a>课程评价</h2><p><a href="https://dsanying.github.io/cuhksz/course-evaluation/">点此跳转</a></p>]]></content>
       
       
       <categories>
@@ -464,7 +331,7 @@
       <link href="/cuhksz/STA2001/"/>
       <url>/cuhksz/STA2001/</url>
       
-        <content type="html"><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><blockquote><p>课程英文名: Probability and Statistics I<br>课程中文名: 概率及统计（一）<br>课程评分: Graded<br>课程描述: 本课程的目的是学习概率统计的基本概念。主题包括初等概率论，贝叶斯定理，随机变量，概率分布，数学期望，条件分布，独立性，相关性，一些特殊的单变量和多变量随机分布，随机变量变换，抽样分布，动差生成函数，大数定律和中心极限定理。</p></blockquote><h2 id="免费资源-点击对应板块跳转"><a href="#免费资源-点击对应板块跳转" class="headerlink" title="免费资源(点击对应板块跳转)"></a>免费资源(点击对应板块跳转)</h2><blockquote><p><a href="https://github.com/dsanying/CUHKSZ_course/tree/main/STA2001/Courseware">课件</a><br><a href="https://github.com/dsanying/CUHKSZ_course/tree/main/STA2001/Exam">试卷</a></p></blockquote><h2 id="课程评价"><a href="#课程评价" class="headerlink" title="课程评价"></a>课程评价</h2><p><a href="https://dsanying.github.io/cuhksz/course-evaluation/">点此跳转</a></p>]]></content>
+        <content type="html"><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><blockquote><p>课程英文名: Probability and Statistics I<br>课程中文名: 概率及统计（一）<br>课程评分: Graded<br>课程描述: 本课程的目的是学习概率统计的基本概念。主题包括初等概率论，贝叶斯定理，随机变量，概率分布，数学期望，条件分布，独立性，相关性，一些特殊的单变量和多变量随机分布，随机变量变换，抽样分布，动差生成函数，大数定律和中心极限定理。</p></blockquote><h2 id="免费资源-点击对应板块跳转"><a href="#免费资源-点击对应板块跳转" class="headerlink" title="免费资源(点击对应板块跳转)"></a>免费资源(点击对应板块跳转)</h2><blockquote><p><a href="https://github.com/dsanying/CUHKSZ_course/tree/main/STA2001/Exam">试卷</a></p></blockquote><h2 id="课程评价"><a href="#课程评价" class="headerlink" title="课程评价"></a>课程评价</h2><p><a href="https://dsanying.github.io/cuhksz/course-evaluation/">点此跳转</a></p>]]></content>
       
       
       <categories>
