@@ -1,3 +1,0 @@
-var posts=["CEC1000/","CSC1003/","DDA2001/","ENG1001/","ENG1002/","IT-guide/","MAT1001/","MAT1002/","MAT2041/","STA2001/","PHY1001/","PED/","about/","contact-school/","course-evaluation/","handbook/","data-table/","lgu-guide-1/","lgu-guide-4/","lgu-guide-3/","lgu-guide-2/","lgu-guide-5/","lgu-guide-6/","map/","timeline/"];function toRandomPost(){
-    pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
-  };
