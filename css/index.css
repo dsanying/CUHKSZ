@@ -1439,7 +1439,7 @@ canvas:not(#ribbon-canvas),
   }
 }
 :root {
-  --global-font-size: 18px;
+  --global-font-size: 15px;
   --global-bg: #fff;
   --font-color: #4c4948;
   --hr-border: #a4d8fa;
@@ -1483,7 +1483,7 @@ body {
   background: var(--global-bg);
   color: var(--font-color);
   font-size: var(--global-font-size);
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Lato, Roboto, 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  font-family: 华文楷体;
   line-height: 2;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
@@ -1584,6 +1584,13 @@ a {
 }
 a:hover {
   color: #49b1f5;
+}
+#site-title,
+#site-subtitle,
+.site-name,
+#aside-content .author-info__name,
+#aside-content .author-info__description {
+  font-family: 华文楷体;
 }
 .is-center {
   text-align: center;
@@ -2042,6 +2049,7 @@ figure.highlight pre .javascript .function {
   height: 100%;
   vertical-align: top;
   text-align: center;
+  font-family: 华文楷体;
 }
 @media screen and (max-width: 768px) {
   .error404 #error-wrap .error-content .error-info {
@@ -4016,6 +4024,37 @@ h1.page-title + .tag-cloud-list {
   font-size: 0.9em;
   font-family: Monaco, 'Ubuntu Mono', monospace;
   line-height: 1em;
+}
+#article-container h1,
+#article-container h2,
+#article-container h3,
+#article-container h4,
+#article-container h5,
+#article-container h6 {
+  width: fit-content;
+}
+#article-container h1 a:not(.headerlink),
+#article-container h2 a:not(.headerlink),
+#article-container h3 a:not(.headerlink),
+#article-container h4 a:not(.headerlink),
+#article-container h5 a:not(.headerlink),
+#article-container h6 a:not(.headerlink) {
+  position: relative;
+  z-index: 10;
+}
+#article-container h1 a.headerlink,
+#article-container h2 a.headerlink,
+#article-container h3 a.headerlink,
+#article-container h4 a.headerlink,
+#article-container h5 a.headerlink,
+#article-container h6 a.headerlink {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
 }
 #article-container ol ol,
 #article-container ul ol,
