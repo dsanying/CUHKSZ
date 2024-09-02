@@ -1,3 +1,4 @@
+https://dsanying.github.io/cuhksz/PED/
 https://dsanying.github.io/cuhksz/about/
 https://dsanying.github.io/cuhksz/course-evaluation/
 https://dsanying.github.io/cuhksz/IT-guide/
@@ -9,17 +10,6 @@ https://dsanying.github.io/cuhksz/lgu-guide-3/
 https://dsanying.github.io/cuhksz/lgu-guide-2/
 https://dsanying.github.io/cuhksz/lgu-guide-1/
 https://dsanying.github.io/cuhksz/lgu-guide-7/
-https://dsanying.github.io/cuhksz/PED/
 https://dsanying.github.io/cuhksz/handbook/
 https://dsanying.github.io/cuhksz/contact-school/
-https://dsanying.github.io/cuhksz/CEC1000/
-https://dsanying.github.io/cuhksz/CSC1003/
-https://dsanying.github.io/cuhksz/ENG1001/
-https://dsanying.github.io/cuhksz/ENG1002/
-https://dsanying.github.io/cuhksz/MAT1002/
-https://dsanying.github.io/cuhksz/MAT1001/
-https://dsanying.github.io/cuhksz/STA2001/
-https://dsanying.github.io/cuhksz/DDA2001/
-https://dsanying.github.io/cuhksz/PHY1001/
-https://dsanying.github.io/cuhksz/MAT2041/
 https://dsanying.github.io/cuhksz/map/
