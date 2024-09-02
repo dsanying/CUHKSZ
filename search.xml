@@ -1,6 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>IT指南</title>
+    <url>/cuhksz/IT-guide/</url>
+    <content><![CDATA[<blockquote>
+<p>完整IT手册请查看网址: <a href="https://sp16.cuhk.edu.cn/itsc/Students%20Public%20Documents/Forms/AllItems.aspx?id=/itsc/Students%20Public%20Documents/IT%20Services%20for%20New%20Students">https://sp16.cuhk.edu.cn/itsc/Students%20Public%20Documents/Forms/AllItems.aspx?id=%2Fitsc%2FStudents%20Public%20Documents%2FIT%20Services%20for%20New%20Students</a></p>
+</blockquote>
+<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>本篇文章包含基本的校园IT知识</p>
+<h2 id="CUHK-SZ-账号"><a href="#CUHK-SZ-账号" class="headerlink" title="CUHK(SZ)账号"></a>CUHK(SZ)账号</h2><p>账号是一串数字，也是你的学号。学校所有系统的账号与密码都是统一的。<br>本科生查询网址: <a href="https://ug-inquiry.cuhk.edu.cn/index.html">https://ug-inquiry.cuhk.edu.cn/index.html</a><br>研究生和国际生的账号与密码会发送到个人邮箱里。</p>
+<p>访问密码自助服务平台 (<a href="https://myid.cuhk.edu.cn/">https://myid.cuhk.edu.cn/</a>) 以便激活账号、修改密码、绑定密保手机&#x2F;邮箱。</p>
+<blockquote>
+<p>直接使用给你的账号与初始密码登录即可，<strong>不要</strong>点击忘记密码或者解锁账号</p>
+</blockquote>
+<h2 id="电子邮箱"><a href="#电子邮箱" class="headerlink" title="电子邮箱"></a>电子邮箱</h2><p>每位同学都拥有一个学校邮箱，即”(学号)@link.cuhk.edu.cn”。<br>学生可以使用CUHK(SZ)账号与密码登录学校邮箱。<br>例如:</p>
+<blockquote>
+<p>邮箱账号: <a href="mailto:&#x31;&#50;&#48;&#x39;&#x39;&#x39;&#x39;&#57;&#57;&#64;&#108;&#x69;&#x6e;&#107;&#46;&#x63;&#x75;&#x68;&#x6b;&#x2e;&#101;&#100;&#x75;&#x2e;&#99;&#x6e;">&#x31;&#50;&#48;&#x39;&#x39;&#x39;&#x39;&#57;&#57;&#64;&#108;&#x69;&#x6e;&#107;&#46;&#x63;&#x75;&#x68;&#x6b;&#x2e;&#101;&#100;&#x75;&#x2e;&#99;&#x6e;</a><br>密码: 学校账号密码</p>
+</blockquote>
+<p>登录方式:</p>
+<ul>
+<li>网页：<a href="https://outlook.office.com/">https://outlook.office.com/</a></li>
+<li>电脑端: 推荐使用系统自带的Outlook(new)直接添加邮箱或者下载Office365中的Outlook添加邮箱</li>
+<li>手机端: 任意邮箱软件选择Exchange类型，一般输入邮箱及密码即可自动添加(不要输入用户名等其它东西)</li>
+</ul>
+<h2 id="校园卡"><a href="#校园卡" class="headerlink" title="校园卡"></a>校园卡</h2><p>每位同学都将收到一张校园卡（学生卡），卡上有你的姓名、学号、照片和书院等信息。此卡可以在新生报到注册当天领取。</p>
+<blockquote>
+<p>校园卡除了考试和进入游泳馆、功能房等部分场地外基本就没用了，更不需要往校园卡里充钱。<br>如需在别的地方使用(例如进出校门)可以使用电子校园卡(微信搜索小程序”港中深虚拟校园卡”)</p>
+</blockquote>
+<h2 id="校园网络"><a href="#校园网络" class="headerlink" title="校园网络"></a>校园网络</h2><h3 id="无线-有线网络"><a href="#无线-有线网络" class="headerlink" title="无线&#x2F;有线网络"></a>无线&#x2F;有线网络</h3><p>直接连接网络即可，在弹出的认证页面使用学校账号及密码登录即可。</p>
+<blockquote>
+<p>如果没有弹出认证页面可以手动访问网址 1.1.1.3 。如果该网址无法访问请检查VPN、代理服务器等设置，确保都是自动获取。</p>
+</blockquote>
+<h3 id="eduroam"><a href="#eduroam" class="headerlink" title="eduroam"></a>eduroam</h3><p>同学出访其他参加eduroam联盟的学校时可使用eduroam免费上网。<br>登录账号为”学号@cuhk.edu.cn”(注意后缀)，密码为学校账号密码。</p>
+<h3 id="vpn"><a href="#vpn" class="headerlink" title="vpn"></a>vpn</h3><blockquote>
+<p>vpn仅用于访问内网资源，<strong>不具有</strong>翻墙性质</p>
+</blockquote>
+<p>网页版直接使用: <a href="https://vpn.cuhk.edu.cn/">https://vpn.cuhk.edu.cn/</a><br>客户端下载地址:</p>
+<ul>
+<li><a href="https://vpnsoft.cuhk.edu.cn/">https://vpnsoft.cuhk.edu.cn</a> (仅校内使用，无须登录) </li>
+<li><a href="https://vpn.cuhk.edu.cn/CACHE/stc/1/index.html">https://vpn.cuhk.edu.cn/CACHE/stc/1/index.html</a> (须登录)</li>
+<li><a href="https://cuhko365.sharepoint.com/sites/swcenter">https://cuhko365.sharepoint.com/sites/swcenter</a> (须登录)</li>
+</ul>
+<p>服务器地址：</p>
+<ul>
+<li>中国大陆: vpn.cuhk.edu.cn</li>
+<li>中国大陆以外：vpnhk.cuhk.edu.cn</li>
+</ul>
+<p>使用学校账号登录即可使用。</p>
+<h3 id="网络测速"><a href="#网络测速" class="headerlink" title="网络测速"></a>网络测速</h3><ul>
+<li>校内测速: 10.10.10.10</li>
+<li>校外测速: <a href="https://www.speedtest.cn/">https://www.speedtest.cn</a></li>
+</ul>
+<h2 id="文印服务"><a href="#文印服务" class="headerlink" title="文印服务"></a>文印服务</h2><p>云打印网址: <a href="https://eprinting.cuhk.edu.cn/">https://eprinting.cuhk.edu.cn/</a> (网页版会有部分限制，例如上传的文件大小)</p>
+<p>打印机驱动下载:</p>
+<ul>
+<li>Windows: <a href="https://sysprint.cuhk.edu.cn/driver/CUHK(SZ)_Printer_PCL.exe">https://sysprint.cuhk.edu.cn/driver/CUHK(SZ)_Printer_PCL.exe</a></li>
+<li>Mac: <a href="https://sysprint.cuhk.edu.cn/driver/CUHK(SZ)_Printer_PDF-pkg.zip">https://sysprint.cuhk.edu.cn/driver/CUHK(SZ)_Printer_PDF-pkg.zip</a></li>
+</ul>
+<p>文印服务充值: 微信搜索微信公众号”香港中文大学深圳ITSO”-&gt;文印服务-&gt;用户中心 (扫描是免费的)</p>
+<h2 id="Office-Microsoft-365"><a href="#Office-Microsoft-365" class="headerlink" title="Office Microsoft 365"></a>Office Microsoft 365</h2><p>大学为每位学生提供了Microsoft 365应用程序，同学可下载激活Word、Excel、PowerPoint、Outlook等软件。<br>下载网址: <a href="https://portal.office.com/account/">https://portal.office.com/account/</a></p>
+<h2 id="企业微信"><a href="#企业微信" class="headerlink" title="企业微信"></a>企业微信</h2><img src="https://itso.cuhk.edu.cn/sites/itso.live.dpsite02.cuhk.edu.cn/files/inline-images/WechatIMG25_0.png" alt="扫码加入企业微信" width="500">
+
+<h2 id="信息系统"><a href="#信息系统" class="headerlink" title="信息系统"></a>信息系统</h2><h3 id="本科生录取查询系统"><a href="#本科生录取查询系统" class="headerlink" title="本科生录取查询系统"></a>本科生录取查询系统</h3><p>查询录取证书寄送状态、奖学金申请状态、<strong>学校账号及初始密码</strong><br><a href="https://ug-inquiry.cuhk.edu.cn/index.html">https://ug-inquiry.cuhk.edu.cn/index.html</a></p>
+<h3 id="迎新注册系统"><a href="#迎新注册系统" class="headerlink" title="迎新注册系统"></a>迎新注册系统</h3><p>学生个人信息填写及<strong>接机接站</strong>信息填写 可以在基本信息中<strong>查看书院</strong><br><a href="https://orientation.cuhk.edu.cn/">https://orientation.cuhk.edu.cn/</a></p>
+<h3 id="宿舍查询系统"><a href="#宿舍查询系统" class="headerlink" title="宿舍查询系统"></a>宿舍查询系统</h3><p>查询具体宿舍<br><a href="https://apply.cuhk.edu.cn/matrix-base/apply/dorm_check">https://apply.cuhk.edu.cn/matrix-base/apply/dorm_check</a></p>
+<h3 id="场地预定系统"><a href="#场地预定系统" class="headerlink" title="场地预定系统"></a>场地预定系统</h3><p>预订学校各类场地<br><a href="https://booking.cuhk.edu.cn/">https://booking.cuhk.edu.cn/</a></p>
+<h3 id="教务系统"><a href="#教务系统" class="headerlink" title="教务系统"></a>教务系统</h3><p>提交各类学业申请，查询课程安排、学分绩点等<br><a href="https://sis.cuhk.edu.cn/">https://sis.cuhk.edu.cn/</a></p>
+<h3 id="网络终端管理平台"><a href="#网络终端管理平台" class="headerlink" title="网络终端管理平台"></a>网络终端管理平台</h3><p>管理接入校园网的设备<br><a href="https://lan-portal.cuhk.edu.cn:8443/am/user/login/login.html">https://lan-portal.cuhk.edu.cn:8443/am/user/login/login.html</a></p>
+]]></content>
+      <categories>
+        <category>校园</category>
+      </categories>
+  </entry>
+  <entry>
     <title>PED1001/1002 体育课测评</title>
     <url>/cuhksz/PED/</url>
     <content><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><blockquote>
@@ -89,147 +160,12 @@
       </categories>
   </entry>
   <entry>
-    <title>IT指南</title>
-    <url>/cuhksz/IT-guide/</url>
-    <content><![CDATA[<blockquote>
-<p>完整IT手册请查看网址: <a href="https://sp16.cuhk.edu.cn/itsc/Students%20Public%20Documents/Forms/AllItems.aspx?id=/itsc/Students%20Public%20Documents/IT%20Services%20for%20New%20Students">https://sp16.cuhk.edu.cn/itsc/Students%20Public%20Documents/Forms/AllItems.aspx?id=%2Fitsc%2FStudents%20Public%20Documents%2FIT%20Services%20for%20New%20Students</a></p>
-</blockquote>
-<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>本篇文章包含基本的校园IT知识</p>
-<h2 id="CUHK-SZ-账号"><a href="#CUHK-SZ-账号" class="headerlink" title="CUHK(SZ)账号"></a>CUHK(SZ)账号</h2><p>账号是一串数字，也是你的学号。学校所有系统的账号与密码都是统一的。<br>本科生查询网址: <a href="https://ug-inquiry.cuhk.edu.cn/index.html">https://ug-inquiry.cuhk.edu.cn/index.html</a><br>研究生和国际生的账号与密码会发送到个人邮箱里。</p>
-<p>访问密码自助服务平台 (<a href="https://myid.cuhk.edu.cn/">https://myid.cuhk.edu.cn/</a>) 以便激活账号、修改密码、绑定密保手机&#x2F;邮箱。</p>
-<blockquote>
-<p>直接使用给你的账号与初始密码登录即可，<strong>不要</strong>点击忘记密码或者解锁账号</p>
-</blockquote>
-<h2 id="电子邮箱"><a href="#电子邮箱" class="headerlink" title="电子邮箱"></a>电子邮箱</h2><p>每位同学都拥有一个学校邮箱，即”(学号)@link.cuhk.edu.cn”。<br>学生可以使用CUHK(SZ)账号与密码登录学校邮箱。<br>例如:</p>
-<blockquote>
-<p>邮箱账号: <a href="mailto:&#49;&#50;&#x30;&#57;&#x39;&#57;&#57;&#x39;&#x39;&#64;&#108;&#x69;&#x6e;&#107;&#x2e;&#99;&#117;&#x68;&#107;&#46;&#101;&#100;&#x75;&#x2e;&#x63;&#x6e;">&#49;&#50;&#x30;&#57;&#x39;&#57;&#57;&#x39;&#x39;&#64;&#108;&#x69;&#x6e;&#107;&#x2e;&#99;&#117;&#x68;&#107;&#46;&#101;&#100;&#x75;&#x2e;&#x63;&#x6e;</a><br>密码: 学校账号密码</p>
-</blockquote>
-<p>登录方式:</p>
-<ul>
-<li>网页：<a href="https://outlook.office.com/">https://outlook.office.com/</a></li>
-<li>电脑端: 推荐使用系统自带的Outlook(new)直接添加邮箱或者下载Office365中的Outlook添加邮箱</li>
-<li>手机端: 任意邮箱软件选择Exchange类型，一般输入邮箱及密码即可自动添加(不要输入用户名等其它东西)</li>
-</ul>
-<h2 id="校园卡"><a href="#校园卡" class="headerlink" title="校园卡"></a>校园卡</h2><p>每位同学都将收到一张校园卡（学生卡），卡上有你的姓名、学号、照片和书院等信息。此卡可以在新生报到注册当天领取。</p>
-<blockquote>
-<p>校园卡除了考试和进入游泳馆、功能房等部分场地外基本就没用了，更不需要往校园卡里充钱。<br>如需在别的地方使用(例如进出校门)可以使用电子校园卡(微信搜索小程序”港中深虚拟校园卡”)</p>
-</blockquote>
-<h2 id="校园网络"><a href="#校园网络" class="headerlink" title="校园网络"></a>校园网络</h2><h3 id="无线-有线网络"><a href="#无线-有线网络" class="headerlink" title="无线&#x2F;有线网络"></a>无线&#x2F;有线网络</h3><p>直接连接网络即可，在弹出的认证页面使用学校账号及密码登录即可。</p>
-<blockquote>
-<p>如果没有弹出认证页面可以手动访问网址 1.1.1.3 。如果该网址无法访问请检查VPN、代理服务器等设置，确保都是自动获取。</p>
-</blockquote>
-<h3 id="eduroam"><a href="#eduroam" class="headerlink" title="eduroam"></a>eduroam</h3><p>同学出访其他参加eduroam联盟的学校时可使用eduroam免费上网。<br>登录账号为”学号@cuhk.edu.cn”(注意后缀)，密码为学校账号密码。</p>
-<h3 id="vpn"><a href="#vpn" class="headerlink" title="vpn"></a>vpn</h3><blockquote>
-<p>vpn仅用于访问内网资源，<strong>不具有</strong>翻墙性质</p>
-</blockquote>
-<p>网页版直接使用: <a href="https://vpn.cuhk.edu.cn/">https://vpn.cuhk.edu.cn/</a><br>客户端下载地址:</p>
-<ul>
-<li><a href="https://vpnsoft.cuhk.edu.cn/">https://vpnsoft.cuhk.edu.cn</a> (仅校内使用，无须登录) </li>
-<li><a href="https://vpn.cuhk.edu.cn/CACHE/stc/1/index.html">https://vpn.cuhk.edu.cn/CACHE/stc/1/index.html</a> (须登录)</li>
-<li><a href="https://cuhko365.sharepoint.com/sites/swcenter">https://cuhko365.sharepoint.com/sites/swcenter</a> (须登录)</li>
-</ul>
-<p>服务器地址：</p>
-<ul>
-<li>中国大陆: vpn.cuhk.edu.cn</li>
-<li>中国大陆以外：vpnhk.cuhk.edu.cn</li>
-</ul>
-<p>使用学校账号登录即可使用。</p>
-<h3 id="网络测速"><a href="#网络测速" class="headerlink" title="网络测速"></a>网络测速</h3><ul>
-<li>校内测速: 10.10.10.10</li>
-<li>校外测速: <a href="https://www.speedtest.cn/">https://www.speedtest.cn</a></li>
-</ul>
-<h2 id="文印服务"><a href="#文印服务" class="headerlink" title="文印服务"></a>文印服务</h2><p>云打印网址: <a href="https://eprinting.cuhk.edu.cn/">https://eprinting.cuhk.edu.cn/</a> (网页版会有部分限制，例如上传的文件大小)</p>
-<p>打印机驱动下载:</p>
-<ul>
-<li>Windows: <a href="https://sysprint.cuhk.edu.cn/driver/CUHK(SZ)_Printer_PCL.exe">https://sysprint.cuhk.edu.cn/driver/CUHK(SZ)_Printer_PCL.exe</a></li>
-<li>Mac: <a href="https://sysprint.cuhk.edu.cn/driver/CUHK(SZ)_Printer_PDF-pkg.zip">https://sysprint.cuhk.edu.cn/driver/CUHK(SZ)_Printer_PDF-pkg.zip</a></li>
-</ul>
-<p>文印服务充值: 微信搜索微信公众号”香港中文大学深圳ITSO”-&gt;文印服务-&gt;用户中心 (扫描是免费的)</p>
-<h2 id="Office-Microsoft-365"><a href="#Office-Microsoft-365" class="headerlink" title="Office Microsoft 365"></a>Office Microsoft 365</h2><p>大学为每位学生提供了Microsoft 365应用程序，同学可下载激活Word、Excel、PowerPoint、Outlook等软件。<br>下载网址: <a href="https://portal.office.com/account/">https://portal.office.com/account/</a></p>
-<h2 id="企业微信"><a href="#企业微信" class="headerlink" title="企业微信"></a>企业微信</h2><img src="https://itso.cuhk.edu.cn/sites/itso.live.dpsite02.cuhk.edu.cn/files/inline-images/WechatIMG25_0.png" alt="扫码加入企业微信" width="500">
-
-<h2 id="信息系统"><a href="#信息系统" class="headerlink" title="信息系统"></a>信息系统</h2><h3 id="本科生录取查询系统"><a href="#本科生录取查询系统" class="headerlink" title="本科生录取查询系统"></a>本科生录取查询系统</h3><p>查询录取证书寄送状态、奖学金申请状态、<strong>学校账号及初始密码</strong><br><a href="https://ug-inquiry.cuhk.edu.cn/index.html">https://ug-inquiry.cuhk.edu.cn/index.html</a></p>
-<h3 id="迎新注册系统"><a href="#迎新注册系统" class="headerlink" title="迎新注册系统"></a>迎新注册系统</h3><p>学生个人信息填写及<strong>接机接站</strong>信息填写 可以在基本信息中<strong>查看书院</strong><br><a href="https://orientation.cuhk.edu.cn/">https://orientation.cuhk.edu.cn/</a></p>
-<h3 id="宿舍查询系统"><a href="#宿舍查询系统" class="headerlink" title="宿舍查询系统"></a>宿舍查询系统</h3><p>查询具体宿舍<br><a href="https://apply.cuhk.edu.cn/matrix-base/apply/dorm_check">https://apply.cuhk.edu.cn/matrix-base/apply/dorm_check</a></p>
-<h3 id="场地预定系统"><a href="#场地预定系统" class="headerlink" title="场地预定系统"></a>场地预定系统</h3><p>预订学校各类场地<br><a href="https://booking.cuhk.edu.cn/">https://booking.cuhk.edu.cn/</a></p>
-<h3 id="教务系统"><a href="#教务系统" class="headerlink" title="教务系统"></a>教务系统</h3><p>提交各类学业申请，查询课程安排、学分绩点等<br><a href="https://sis.cuhk.edu.cn/">https://sis.cuhk.edu.cn/</a></p>
-<h3 id="网络终端管理平台"><a href="#网络终端管理平台" class="headerlink" title="网络终端管理平台"></a>网络终端管理平台</h3><p>管理接入校园网的设备<br><a href="https://lan-portal.cuhk.edu.cn:8443/am/user/login/login.html">https://lan-portal.cuhk.edu.cn:8443/am/user/login/login.html</a></p>
-]]></content>
-      <categories>
-        <category>校园</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>重要资料</title>
-    <url>/cuhksz/handbook/</url>
-    <content><![CDATA[<h2 id="常用中英文对照表"><a href="#常用中英文对照表" class="headerlink" title="常用中英文对照表"></a>常用中英文对照表</h2><p><a href="https://github.com/dsanying/CUHKSZ_course/blob/main/Dictionary.pdf">港中深常见英文缩写、单词和短语.pdf</a></p>
-<h2 id="校巴时刻表"><a href="#校巴时刻表" class="headerlink" title="校巴时刻表"></a>校巴时刻表</h2><img src="https://cdn.jsdelivr.net/gh/dsanying/ImgHosting@cuhksz/bus_timetable.jpg" width="200">
-
-<h2 id="学校相关数据参考信息"><a href="#学校相关数据参考信息" class="headerlink" title="学校相关数据参考信息"></a>学校相关数据参考信息</h2><blockquote>
-<p>数据来源于学校官方</p>
-</blockquote>
-<h3 id="衣服尺寸"><a href="#衣服尺寸" class="headerlink" title="衣服尺寸"></a>衣服尺寸</h3><table>
-<thead>
-<tr>
-<th>码数</th>
-<th>身高</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>XS</td>
-<td>&lt;154cm</td>
-</tr>
-<tr>
-<td>S</td>
-<td>155cm-162cm</td>
-</tr>
-<tr>
-<td>M</td>
-<td>163cm-170cm</td>
-</tr>
-<tr>
-<td>L</td>
-<td>171cm-177cm</td>
-</tr>
-<tr>
-<td>XL</td>
-<td>178cm-184cm</td>
-</tr>
-<tr>
-<td>XXL</td>
-<td>185cm-194cm</td>
-</tr>
-</tbody></table>
-<p>除此之外还有L和3XL的码数</p>
-<h3 id="成绩评级与积点转换"><a href="#成绩评级与积点转换" class="headerlink" title="成绩评级与积点转换"></a>成绩评级与积点转换</h3><table>
-  <tr><td>等级及标准</td><td>细分等级</td><td>变换积点</td></tr>
-  <tr><td>A 特优</td><td>A</td><td>4.0</td></tr>
-  <tr><td>A- 优</td><td>A-</td><td>3.7</td></tr>
-  <tr><td rowspan="3">B</td><td>B+</td><td>3.3</td></tr>
-  <tr><td>B</td><td>3.0</td></tr>
-  <tr><td>B-</td><td>2.7</td></tr>
-  <tr><td rowspan="3">C</td><td>C+</td><td>2.3</td></tr>
-  <tr><td>C</td><td>2.0</td></tr>
-  <tr><td>C-</td><td>1.7</td></tr>
-  <tr><td rowspan="2">D</td><td>D+</td><td>1.3</td></tr>
-  <tr><td>D</td><td>1.0</td></tr>
-  <tr><td>F 不及格</td><td>F</td><td>0.0(不计入平均积点)</td></tr>
-  <tr><td>P 及格</td><td>P</td><td>不计入积点</td></tr>
-  <tr><td>U 不及格</td><td>U</td><td>不计入积点</td></tr>
-</table>
-
-]]></content>
-      <categories>
-        <category>校园</category>
-      </categories>
-  </entry>
-  <entry>
     <title>关于本站</title>
     <url>/cuhksz/about/</url>
     <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>本站建立初衷是收集各种资源给大家共同<del>白嫖</del>(｡･ω･｡)，不仅让老生能在里面找到需要的资料，也要让新生们能通过这个网站快速解决各种疑惑。<br>目前所需的各种资源极其缺乏，所以希望各位在利用资源的同时可以无偿提供自己手头上的资源。（站主确实没钱去收购各种出售的资源，所以只能靠大家自愿提供了）。同时也希望各位能将这个网站转发传播，让更多的人知道它的存在。</p>
 <h2 id="站主留言"><a href="#站主留言" class="headerlink" title="站主留言"></a>站主留言</h2><p>我也不知道这个网站在未来的时间里能收集多少的资源，若干时间后又有多少人还在使用它。我能做到的就是在空闲时间里尽量维护与更新这个网站。资源的缺乏只能靠大家慢慢提供补充啦~</p>
 <h2 id="资源提交"><a href="#资源提交" class="headerlink" title="资源提交"></a>资源提交</h2><h3 id="提交课程资料"><a href="#提交课程资料" class="headerlink" title="提交课程资料"></a>提交课程资料</h3><p>本站目前主要收集的课程资料是<code>Syllabus/Outline</code>、<code>各年份的考试试卷(Exam\Quiz)</code>、<code>Cheating Paper</code>这三样重要东西，当然也欢迎提交其它的资料。</p>
-<p>愿意提供资料的友友们请通过邮件形式发送资料到<a href="mailto:&#100;&#x73;&#x61;&#110;&#x79;&#105;&#110;&#103;&#64;&#x71;&#x71;&#x2e;&#x63;&#x6f;&#x6d;">&#100;&#x73;&#x61;&#110;&#x79;&#105;&#110;&#103;&#64;&#x71;&#x71;&#x2e;&#x63;&#x6f;&#x6d;</a> ，记得备注xxxx届+网名&#x2F;真实姓名（是滴，资料提供者是会在网站上留名的），没有备注的默认为匿名提供资料哦~</p>
+<p>愿意提供资料的友友们请通过邮件形式发送资料到<a href="mailto:&#100;&#115;&#x61;&#110;&#121;&#105;&#110;&#x67;&#x40;&#113;&#113;&#46;&#x63;&#111;&#x6d;">&#100;&#115;&#x61;&#110;&#121;&#105;&#110;&#x67;&#x40;&#113;&#113;&#46;&#x63;&#111;&#x6d;</a> ，记得备注xxxx届+网名&#x2F;真实姓名（是滴，资料提供者是会在网站上留名的），没有备注的默认为匿名提供资料哦~</p>
 <h3 id="提交课程评价"><a href="#提交课程评价" class="headerlink" title="提交课程评价"></a>提交课程评价</h3><p>目前课程评价数据极其稀缺，需要大家一起贡献数据(〃’▽’〃)</p>
 <div style="position: relative; padding: 30% 45%;">
   <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://nvmkz7d22u.feishu.cn/share/base/form/shrcnnOdNKhHXmRaMuE0rqEH4Le" frameborder="1" scrolling="yes" width="320" height="240">
@@ -239,24 +175,46 @@
 <br>
 
 <p>欢迎大家将这个收集表转发给更多的人!<br>提交网址: <a href="https://nvmkz7d22u.feishu.cn/share/base/form/shrcnnOdNKhHXmRaMuE0rqEH4Le">https://nvmkz7d22u.feishu.cn/share/base/form/shrcnnOdNKhHXmRaMuE0rqEH4Le</a></p>
-<h3 id="提交其他文章"><a href="#提交其他文章" class="headerlink" title="提交其他文章"></a>提交其他文章</h3><p>如果大家自己有写学校相关的文章(例如:校园周边餐饮、周边游玩计划、某某使用攻略等)，欢迎大家将文章相关链接(例如:小红书链接、微信公众号链接、抖音链接等)发送到<a href="mailto:&#x64;&#115;&#x61;&#110;&#x79;&#105;&#110;&#x67;&#x40;&#113;&#113;&#x2e;&#99;&#111;&#x6d;">&#x64;&#115;&#x61;&#110;&#x79;&#105;&#110;&#x67;&#x40;&#113;&#113;&#x2e;&#99;&#111;&#x6d;</a>，本站也会收录优质文章。</p>
+<h3 id="提交其他文章"><a href="#提交其他文章" class="headerlink" title="提交其他文章"></a>提交其他文章</h3><p>如果大家自己有写学校相关的文章(例如:校园周边餐饮、周边游玩计划、某某使用攻略等)，欢迎大家将文章相关链接(例如:小红书链接、微信公众号链接、抖音链接等)发送到<a href="mailto:&#x64;&#115;&#97;&#110;&#121;&#105;&#x6e;&#103;&#x40;&#113;&#113;&#x2e;&#x63;&#111;&#x6d;">&#x64;&#115;&#97;&#110;&#121;&#105;&#x6e;&#103;&#x40;&#113;&#113;&#x2e;&#x63;&#111;&#x6d;</a>，本站也会收录优质文章。</p>
 <h2 id="加入群聊"><a href="#加入群聊" class="headerlink" title="加入群聊"></a>加入群聊</h2><p>如果你愿意参与网站的建设(包括但不限于协助宣传、帮忙收集资料、提供合理建议)，请点击下方链接或者扫描二维码加入QQ建站交流群。<br>点击链接加入【港中深（龙大）建站交流群】: <a href="https://qm.qq.com/q/9kcRaJugec">https://qm.qq.com/q/9kcRaJugec</a><br><img src="https://cdn.jsdelivr.net/gh/dsanying/ImgHosting@cuhksz/qq_website.jpg" width="200"></p>
 <p>大家也可以点击下方链接或者扫描二维码加入交友聊天吹水用的QQ群~<br>点击链接加入【港中深（龙大）聊天交流群】: <a href="https://qm.qq.com/q/pZ3j9BowaA">https://qm.qq.com/q/pZ3j9BowaA</a><br><img src="https://cdn.jsdelivr.net/gh/dsanying/ImgHosting@cuhksz/qq_chat.jpg" width="200"></p>
 <p><span id="about-reward"></span></p>
 <h2 id="支持者名单"><a href="#支持者名单" class="headerlink" title="支持者名单"></a>支持者名单</h2>]]></content>
   </entry>
   <entry>
+    <title>课程评价</title>
+    <url>/cuhksz/course-evaluation/</url>
+    <content><![CDATA[<h2 id="提交课程评价"><a href="#提交课程评价" class="headerlink" title="提交课程评价"></a>提交课程评价</h2><p>目前课程评价数据极其稀缺，需要大家一起贡献数据(〃’▽’〃)</p>
+<div style="position: relative; padding: 30% 45%;">
+  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://nvmkz7d22u.feishu.cn/share/base/form/shrcnnOdNKhHXmRaMuE0rqEH4Le" frameborder="1" scrolling="yes" width="320" height="240">
+    <a href="https://nvmkz7d22u.feishu.cn/share/base/form/shrcnnOdNKhHXmRaMuE0rqEH4Le">你的浏览器可能不支持iframe,请点击这里跳转相关页面</a>
+  </iframe>
+</div>
+
+
+<p>欢迎大家将这个收集表转发给更多的人！<br>提交网址: <a href="https://nvmkz7d22u.feishu.cn/share/base/form/shrcnnOdNKhHXmRaMuE0rqEH4Le">https://nvmkz7d22u.feishu.cn/share/base/form/shrcnnOdNKhHXmRaMuE0rqEH4Le</a></p>
+<h2 id="查询课程评价"><a href="#查询课程评价" class="headerlink" title="查询课程评价"></a>查询课程评价</h2><div style="position: relative; padding: 30% 45%;">
+  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://nvmkz7d22u.feishu.cn/share/base/query/shrcnUIWic2waYmSnc7Xb758Zkc" frameborder="1" scrolling="yes" width="320" height="240">
+    <a href="https://nvmkz7d22u.feishu.cn/share/base/query/shrcnUIWic2waYmSnc7Xb758Zkc">你的浏览器可能不支持iframe,请点击这里跳转相关页面</a>
+  </iframe>
+</div>
+
+
+<p>查询网址: <a href="https://nvmkz7d22u.feishu.cn/share/base/query/shrcnUIWic2waYmSnc7Xb758Zkc">https://nvmkz7d22u.feishu.cn/share/base/query/shrcnUIWic2waYmSnc7Xb758Zkc</a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>学校联系方式</title>
     <url>/cuhksz/contact-school/</url>
     <content><![CDATA[<h2 id="学校"><a href="#学校" class="headerlink" title="学校"></a>学校</h2><p>地址：深圳市龙岗区龙翔大道2001号<br>电话：(86) 755 8427 3000<br>邮编：518172</p>
 <blockquote>
-<p>本科生招生<br>电话：(86) 755 8427 3500<br>邮箱：<a href="mailto:&#x61;&#x64;&#x6d;&#x69;&#115;&#115;&#105;&#x6f;&#x6e;&#115;&#x40;&#x63;&#x75;&#104;&#x6b;&#46;&#101;&#100;&#117;&#x2e;&#99;&#110;">&#x61;&#x64;&#x6d;&#x69;&#115;&#115;&#105;&#x6f;&#x6e;&#115;&#x40;&#x63;&#x75;&#104;&#x6b;&#46;&#101;&#100;&#117;&#x2e;&#99;&#110;</a></p>
+<p>本科生招生<br>电话：(86) 755 8427 3500<br>邮箱：<a href="mailto:&#97;&#100;&#109;&#x69;&#115;&#115;&#105;&#111;&#110;&#x73;&#64;&#x63;&#x75;&#104;&#x6b;&#46;&#101;&#100;&#117;&#x2e;&#x63;&#x6e;">&#97;&#100;&#109;&#x69;&#115;&#115;&#105;&#111;&#110;&#x73;&#64;&#x63;&#x75;&#104;&#x6b;&#46;&#101;&#100;&#117;&#x2e;&#x63;&#x6e;</a></p>
 </blockquote>
 <blockquote>
-<p>国际（外籍）本科招生<br>电话：(86) 755 8427 3284<br>邮箱：<a href="mailto:&#x69;&#x6e;&#116;&#108;&#97;&#100;&#109;&#x69;&#115;&#x73;&#105;&#x6f;&#x6e;&#x73;&#64;&#99;&#x75;&#x68;&#107;&#x2e;&#x65;&#x64;&#117;&#46;&#x63;&#x6e;">&#x69;&#x6e;&#116;&#108;&#97;&#100;&#109;&#x69;&#115;&#x73;&#105;&#x6f;&#x6e;&#x73;&#64;&#99;&#x75;&#x68;&#107;&#x2e;&#x65;&#x64;&#117;&#46;&#x63;&#x6e;</a></p>
+<p>国际（外籍）本科招生<br>电话：(86) 755 8427 3284<br>邮箱：<a href="mailto:&#105;&#110;&#116;&#108;&#x61;&#x64;&#x6d;&#x69;&#115;&#x73;&#105;&#111;&#x6e;&#x73;&#x40;&#x63;&#117;&#x68;&#107;&#x2e;&#x65;&#x64;&#x75;&#46;&#99;&#110;">&#105;&#110;&#116;&#108;&#x61;&#x64;&#x6d;&#x69;&#115;&#x73;&#105;&#111;&#x6e;&#x73;&#x40;&#x63;&#117;&#x68;&#107;&#x2e;&#x65;&#x64;&#x75;&#46;&#99;&#110;</a></p>
 </blockquote>
 <blockquote>
-<p>研究生招生<br>电话：(86) 755 8427 3900<br>邮箱：<a href="mailto:&#103;&#x73;&#x40;&#x63;&#117;&#104;&#x6b;&#x2e;&#101;&#100;&#x75;&#x2e;&#99;&#110;">&#103;&#x73;&#x40;&#x63;&#117;&#104;&#x6b;&#x2e;&#101;&#100;&#x75;&#x2e;&#99;&#110;</a></p>
+<p>研究生招生<br>电话：(86) 755 8427 3900<br>邮箱：<a href="mailto:&#x67;&#115;&#64;&#x63;&#117;&#x68;&#x6b;&#46;&#x65;&#100;&#x75;&#x2e;&#x63;&#110;">&#x67;&#115;&#64;&#x63;&#117;&#x68;&#x6b;&#46;&#x65;&#100;&#x75;&#x2e;&#x63;&#110;</a></p>
 </blockquote>
 <h2 id="学院"><a href="#学院" class="headerlink" title="学院"></a>学院</h2><table>
   <tr>
@@ -585,179 +543,68 @@
       </tags>
   </entry>
   <entry>
-    <title>课程评价</title>
-    <url>/cuhksz/course-evaluation/</url>
-    <content><![CDATA[<h2 id="提交课程评价"><a href="#提交课程评价" class="headerlink" title="提交课程评价"></a>提交课程评价</h2><p>目前课程评价数据极其稀缺，需要大家一起贡献数据(〃’▽’〃)</p>
-<div style="position: relative; padding: 30% 45%;">
-  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://nvmkz7d22u.feishu.cn/share/base/form/shrcnnOdNKhHXmRaMuE0rqEH4Le" frameborder="1" scrolling="yes" width="320" height="240">
-    <a href="https://nvmkz7d22u.feishu.cn/share/base/form/shrcnnOdNKhHXmRaMuE0rqEH4Le">你的浏览器可能不支持iframe,请点击这里跳转相关页面</a>
-  </iframe>
-</div>
+    <title>重要资料</title>
+    <url>/cuhksz/handbook/</url>
+    <content><![CDATA[<h2 id="常用中英文对照表"><a href="#常用中英文对照表" class="headerlink" title="常用中英文对照表"></a>常用中英文对照表</h2><p><a href="https://github.com/dsanying/CUHKSZ_course/blob/main/Dictionary.pdf">港中深常见英文缩写、单词和短语.pdf</a></p>
+<h2 id="校巴时刻表"><a href="#校巴时刻表" class="headerlink" title="校巴时刻表"></a>校巴时刻表</h2><img src="https://cdn.jsdelivr.net/gh/dsanying/ImgHosting@cuhksz/bus_timetable.jpg" width="200">
 
-
-<p>欢迎大家将这个收集表转发给更多的人！<br>提交网址: <a href="https://nvmkz7d22u.feishu.cn/share/base/form/shrcnnOdNKhHXmRaMuE0rqEH4Le">https://nvmkz7d22u.feishu.cn/share/base/form/shrcnnOdNKhHXmRaMuE0rqEH4Le</a></p>
-<h2 id="查询课程评价"><a href="#查询课程评价" class="headerlink" title="查询课程评价"></a>查询课程评价</h2><div style="position: relative; padding: 30% 45%;">
-  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://nvmkz7d22u.feishu.cn/share/base/query/shrcnUIWic2waYmSnc7Xb758Zkc" frameborder="1" scrolling="yes" width="320" height="240">
-    <a href="https://nvmkz7d22u.feishu.cn/share/base/query/shrcnUIWic2waYmSnc7Xb758Zkc">你的浏览器可能不支持iframe,请点击这里跳转相关页面</a>
-  </iframe>
-</div>
-
-
-<p>查询网址: <a href="https://nvmkz7d22u.feishu.cn/share/base/query/shrcnUIWic2waYmSnc7Xb758Zkc">https://nvmkz7d22u.feishu.cn/share/base/query/shrcnUIWic2waYmSnc7Xb758Zkc</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>LGU​便捷生活（一） - - 如何在校园内提高自己的经济能力</title>
-    <url>/cuhksz/lgu-guide-5/</url>
-    <content><![CDATA[<meta name="referrer" content="never"/>
-
-<blockquote>
-<p>文章来源于微信公众号”抹茶Mattya”<br>原文地址：<a href="https://mp.weixin.qq.com/s/5GmKp--nuIB4IObLV1rP7A">LGU​便捷生活（一） - - 如何在校园内提高自己的经济能力</a></p>
+<h2 id="学校相关数据参考信息"><a href="#学校相关数据参考信息" class="headerlink" title="学校相关数据参考信息"></a>学校相关数据参考信息</h2><blockquote>
+<p>数据来源于学校官方</p>
 </blockquote>
-<p><strong>在LGU生存指南外开辟新的专题啦！！！暂定为LGU便捷生活！！</strong></p>
-<p><strong>写在前面：</strong></p>
-<p><strong>1. 无论何时，请一定要拒绝校园贷！拒绝校园贷！拒绝校园贷！</strong></p>
-<p><strong>2. 请一定平衡好学业与赚钱，在大学最重要的事情往往是学习。</strong></p>
-<p><strong>3. 本文适用于想在课外赚取一定生活费的同学，数额不会很大。</strong></p>
-<hr>
-<p>进入校园，便已半只脚踏入了社会，在拿到生活费的一刻，除了有着可以随意支配资金的自由外，有形无形中也会承担一些额外的需求，人们对美好生活的不断向往注定让人渴望更高层次的生活，同样的，也需要更高层次的经济能力，本文将会介绍在校园内如何在课余生活赚取生活费提高自己的经济能力。</p>
-<hr>
-<h2 id="学生助理岗位（Student-Assistant）"><a href="#学生助理岗位（Student-Assistant）" class="headerlink" title="学生助理岗位（Student Assistant）"></a>学生助理岗位（Student Assistant）</h2><p>学校中有着许多部门，如书院，学院，资讯科技服务处ITSO等，这些部门会在<strong>每学年初公开招募学生助理。</strong></p>
-<p>如下图：</p>
-<p><img src="https://mmbiz.qpic.cn/mmbiz_png/Vj5GibmSe1DKU0rHzcoBFhibslaPYxm0dtnltcB9xPK4gu3wAkVZZFH4peTegEJ5IXcibS8ucMpLSc994GkibV1L7A/640?wx_fmt=png&from=appmsg"></p>
-<p>学生助理岗位，顾名思义，是在部门与部门老师共事，并提供一定协助的岗位。在不同的部门里学生助理的职责不同，但极大部分的学生助理岗位都十分轻松，部门氛围也很轻松，老师们也都乐于指导你应该怎么做，因此不必担心自己会不会因为什么都不会而被冷落。  </p>
-<p><strong>担任学生助理，工作期间会统计工时，绝大多数的学生助理岗位时薪都为25&#x2F;h。月末各个部门会统一计算学生助理的工时，并上报给教务处，本月的工资会在下个月的20号左右打入开学时拿到的那张中信银行卡中。</strong></p>
-<p>单月学生助理的工资缴税起征点是800块，超过的部分按照20%的税率上交，但在第二年可以通过 “ 个人所得税 ” 进行退税。</p>
-<p><strong>每个学生只能签订一份学生助理的协议，且一般都是一年起签。</strong></p>
-<p><strong>学生助理协议如下图：</strong></p>
-<p><img src="https://mmbiz.qpic.cn/mmbiz_png/Vj5GibmSe1DKU0rHzcoBFhibslaPYxm0dtQTvNan16k8jOkxOfKygic21kWqfs8UjJBJ1U2kwhfic1uALCj5gibKgMw/640?wx_fmt=png&from=appmsg"></p>
-<p><strong>常见问题：</strong></p>
-<p><strong>1. 从哪里可以了解学生助理岗位的招聘信息？</strong></p>
-<p><strong>学年初，各个部门会在线下进行宣传，对某个部门的学生助理岗位感兴趣的话可以直接参加报名。同时，各个部门也会通过邮件公开招聘学生助理，可以多留意邮件信息。</strong></p>
-<p><strong>少数临时开放的学生助理岗位也可以通过香港中文大学（深圳）学生工作管理系统了解，在右侧的 “ 勤工助学 ” - - “ 临时岗位申请 ” 可以看到少量的学生助理岗位。</strong></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">https://stu.cuhk.edu.cn/</span><br></pre></td></tr></table></figure>
+<h3 id="衣服尺寸"><a href="#衣服尺寸" class="headerlink" title="衣服尺寸"></a>衣服尺寸</h3><table>
+<thead>
+<tr>
+<th>码数</th>
+<th>身高</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>XS</td>
+<td>&lt;154cm</td>
+</tr>
+<tr>
+<td>S</td>
+<td>155cm-162cm</td>
+</tr>
+<tr>
+<td>M</td>
+<td>163cm-170cm</td>
+</tr>
+<tr>
+<td>L</td>
+<td>171cm-177cm</td>
+</tr>
+<tr>
+<td>XL</td>
+<td>178cm-184cm</td>
+</tr>
+<tr>
+<td>XXL</td>
+<td>185cm-194cm</td>
+</tr>
+</tbody></table>
+<p>除此之外还有L和3XL的码数</p>
+<h3 id="成绩评级与积点转换"><a href="#成绩评级与积点转换" class="headerlink" title="成绩评级与积点转换"></a>成绩评级与积点转换</h3><table>
+  <tr><td>等级及标准</td><td>细分等级</td><td>变换积点</td></tr>
+  <tr><td>A 特优</td><td>A</td><td>4.0</td></tr>
+  <tr><td>A- 优</td><td>A-</td><td>3.7</td></tr>
+  <tr><td rowspan="3">B</td><td>B+</td><td>3.3</td></tr>
+  <tr><td>B</td><td>3.0</td></tr>
+  <tr><td>B-</td><td>2.7</td></tr>
+  <tr><td rowspan="3">C</td><td>C+</td><td>2.3</td></tr>
+  <tr><td>C</td><td>2.0</td></tr>
+  <tr><td>C-</td><td>1.7</td></tr>
+  <tr><td rowspan="2">D</td><td>D+</td><td>1.3</td></tr>
+  <tr><td>D</td><td>1.0</td></tr>
+  <tr><td>F 不及格</td><td>F</td><td>0.0(不计入平均积点)</td></tr>
+  <tr><td>P 及格</td><td>P</td><td>不计入积点</td></tr>
+  <tr><td>U 不及格</td><td>U</td><td>不计入积点</td></tr>
+</table>
 
-<p><img src="https://mmbiz.qpic.cn/mmbiz_png/Vj5GibmSe1DKU0rHzcoBFhibslaPYxm0dtrcCw8FdanajQCjMdGWPSWYqo7kvqoT6sZbDmCH4tnqA0rhbbic18uPg/640?wx_fmt=png&from=appmsg"></p>
-<hr>
-<p><strong>2. 哪个部门的工作比较轻松？</strong></p>
-<p>各个部门的工作不一样，但抹茶会推荐大家去资讯科技服务处ITSO，大一一年在这里学到了很多东西，而且实际体验感觉工作轻松，氛围也很好。</p>
-<hr>
-<p><strong>3. 学生助理是如何安排上班时间的，会不会和我的课程时间冲突？</strong></p>
-<p><strong>一般在开学前就会收集好每位学生助理的课表进行排版，也会直接发问卷询问什么时候有空。</strong></p>
-<hr>
-<h2 id="科研助理-Research-Assistant-（RA）"><a href="#科研助理-Research-Assistant-（RA）" class="headerlink" title="科研助理 Research Assistant （RA）"></a>科研助理 Research Assistant （RA）</h2><p>科研助理，是协助老师进行科研任务的职位，具体工资和工作时间都比较离散，有自费进组，也有会定时发放一定酬劳的，具体请看要看各个老师的资金拨款，但一般都在50&#x2F;h左右，并且有时会事先划定科研助理的总工时。</p>
-<p>单月科研助理的工资缴税起征点是800块，超过的部分按照20%的税率上交，但在第二年可以通过 “ 个人所得税 ” 进行退税。</p>
-<p>但科研助理的本职工作进行科研，酬劳只是额外的奖励，能在科研中收获知识会是更加有益的。  </p>
-<p><strong>科研助理协议如下图：</strong></p>
-<p><img src="https://mmbiz.qpic.cn/mmbiz_png/Vj5GibmSe1DKU0rHzcoBFhibslaPYxm0dt3YF2PtJqlCdyhCkcRIVtPW0QDs48wmXwe1oRCKibsbVMXibrice10Oo6Q/640?wx_fmt=png&from=appmsg"></p>
-<hr>
-<h2 id="本科生助教-Undergraduate-Student-Teaching-Fellow-USTF"><a href="#本科生助教-Undergraduate-Student-Teaching-Fellow-USTF" class="headerlink" title="本科生助教 Undergraduate Student Teaching Fellow (USTF)"></a>本科生助教 Undergraduate Student Teaching Fellow (USTF)</h2><p>一门课程的tutorial是由高年级的学长学姐讲授的，他们被称作USTF，在学期结束后，各个学院会发送USTF的报名链接，也可以找到开课老师询问是否缺少USTF，直接和老师对接交流。</p>
-<p>但由于名额的稀少，USTF的竞争十分激烈。</p>
-<p>USTF申请人应满足以下基本要求（以经管学院为例）：</p>
-<blockquote>
-<p>（1） 累积 GPA &gt;&#x3D; 3.3</p>
-<p>（2） 在香港中文大学（深圳）的英语必修课程中取得好成绩</p>
-<p>（3） 申请 USTF 职位的课程 A&#x2F;A-</p>
-<p>不符合所列基本要求部分的申请人，如果在所列其他基本要求中表现非常突出，仍可予考虑。</p>
-<p>该任命暂定在 2024-25 学年第一学期的 4 个月左右，预计时薪约为 65 元（取决于所涉及的小时数，最高为每月 1300 元左右）。</p>
-<p>Application for Undergraduate Student Teaching Fellow (USTF): Term 1 of 2024-25</p>
-</blockquote>
-<h2 id="4-大学生家教"><a href="#4-大学生家教" class="headerlink" title="4. 大学生家教"></a>4. 大学生家教</h2><p>做家教算是大学生提升经济能力最快的方法了，其中许多门道需要各位多去打听探索，但请一定要大胆地抓住机会，真诚和热情永远是打动家长的第一步，教书能力是留住学生的最好法宝。<strong>（抹茶这个月当家教就快赚到了小10k，快夸夸我！）</strong></p>
-<p>每日&#x2F;每周课后的反馈也可以让家长实时了解进度，也更加体现你的负责和细心。</p>
-<hr>
-<p>常见问题：</p>
-<p><strong>1. 怎么才能了解到哪里需要大学生家教？</strong></p>
-<p>可以通过论坛，学长学姐的介绍，家教群去了解，但不可避免会遇到信息费的收取，也请各位自行判断。</p>
-<hr>
-<p><strong>2. 大学生家教时薪多少合适？</strong></p>
-<p>要参考所教学生的年级，科目以及授课内容来综合判断。</p>
-<hr>
-<p>在校内提升经济能力的方法就这大致几类，当然也有包括做自媒体，录制讲题视频等别的副业收入，但是抹茶不太了解便不写在此处。学校内的岗位每个月也可创造小1k的额外收入，对于爱吃的抹茶还是一笔很可观的收入。  </p>
-<p>但无论何时，在大学的学习往往是学习为重，在争取额外收入的同时，请一定也要平衡好学业。</p>
-<p><strong>也欢迎大家加入资讯科技服务处ITSO！！到时候我们应该也会继续在线下招聘！！</strong></p>
-<p><img src="https://mmbiz.qpic.cn/mmbiz_jpg/Vj5GibmSe1DKU0rHzcoBFhibslaPYxm0dt3xqhEU3ZO9r0c0k8KkIf8SmgqvYm5LvpPWTNuxUM6sDiapsbGBa1upQ/640?wx_fmt=jpeg&from=appmsg"></p>
-]]></content>
-      <categories>
-        <category>生活</category>
-      </categories>
-      <tags>
-        <tag>LGU指南</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>LGU生存指南（四） - - 如何实现跨学院转专业</title>
-    <url>/cuhksz/lgu-guide-4/</url>
-    <content><![CDATA[<meta name="referrer" content="never"/>
-
-<blockquote>
-<p>文章来源于微信公众号”抹茶Mattya”<br>原文地址：<a href="https://mp.weixin.qq.com/s/Tk9Qjd38TTiTKs0VQeRNWA">LGU生存指南（四） - - 如何实现跨学院转专业</a></p>
-</blockquote>
-<p><strong>在看这篇文章之前，请先阅读完前三篇生存指南，不然可能会有理解上的困难。</strong></p>
-<p><a href="http://mp.weixin.qq.com/s?__biz=MzkwODY0NTM3Mw==&mid=2247483706&idx=1&sn=28269ae673b141b43e3c8a68971302a7&chksm=c0c787a8f7b00ebe956bdcd32c3c3fefd9fb239b0ae51ffad3d51d8068094f618fd84e2f899b&scene=21#wechat_redirect"><strong>LGU生存指南（一） - - 如何快速高效地上手sis</strong></a>  </p>
-<p><a href="http://mp.weixin.qq.com/s?__biz=MzkwODY0NTM3Mw==&mid=2247483718&idx=1&sn=e080092f9b216825fe2161f9784798a6&chksm=c0c787d4f7b00ec21b706ee47fd182dec067a2beca52fd64adf2041ab3bf0e7b1acafe046c05&scene=21#wechat_redirect"><strong>LGU生存指南（二） - - 如何交表 + 如何科学使用 Add &amp; Drop Week</strong></a>  </p>
-<p><a href="http://mp.weixin.qq.com/s?__biz=MzkwODY0NTM3Mw==&mid=2247483726&idx=1&sn=60e268b9693a83f3ca0fac7dce71be61&chksm=c0c787dcf7b00ecaa715f9b707cfa026bb1eb6508607bf91fcc47794e17ca7831f931e812f88&scene=21#wechat_redirect"><strong>LGU生存指南（三） - - 如何符合毕业标准及副修专业申报</strong></a></p>
-<hr>
-<p>在入学前，大一的新同学们会事先选择意向学院，但是由于各种各样的原因，如许多同学会考虑学院内的转专业或者跨学院的转专业。学院内转专业的流程十分简单，且最早也是在大二结束后才会有学院内转专业的需求，<strong>本文仅对于跨学院转专业给出具体方案</strong>。</p>
-<hr>
-<h2 id="香港中文大学（深圳）的转专业政策"><a href="#香港中文大学（深圳）的转专业政策" class="headerlink" title="香港中文大学（深圳）的转专业政策"></a>香港中文大学（深圳）的转专业政策</h2><p>香港中文大学（深圳）教务处官网，针对跨学院的转专业给出了具体说明。</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">https://registry.cuhk.edu.cn/page/25</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>1.申请跨学院转专业学生须满足以下三项条件中的至少一项，方可获学院考虑批准转专业：(1)已修拟转入专业课程的6个学分，并平均成绩不低于B- (2)入学成绩须高于拟转入专业当年同一省份录取成绩排名最后10%的学生 (3)当年累计平均绩点不低于3.0</p>
-<p>香港中文大学（深圳）转专业须知（跨学院）</p>
-</blockquote>
-<p><strong><img src="https://mmbiz.qpic.cn/mmbiz_png/Vj5GibmSe1DI2vPNm2ujicToIAAfRicZ538xjA75q471UwFxkWkiablxTKib9DtLbQZ9icKVqRhp7I8fjGxsBicbOAndA/640?wx_fmt=png&from=appmsg"></strong></p>
-<p><strong>由此可见，在香港中文大学（深圳）转专业的限制其实很少，上述三条只需满足一条就可以申请跨学院转专业。</strong></p>
-<hr>
-<h2 id="大一新生决定好了跨学院转专业，我应该在大一上学期修读什么？"><a href="#大一新生决定好了跨学院转专业，我应该在大一上学期修读什么？" class="headerlink" title="大一新生决定好了跨学院转专业，我应该在大一上学期修读什么？"></a>大一新生决定好了跨学院转专业，我应该在大一上学期修读什么？</h2><p><img src="https://mmbiz.qpic.cn/mmbiz_png/Vj5GibmSe1DI2vPNm2ujicToIAAfRicZ538aRG4Z7tUaEYNqXpOJcpCbvibB6nnzic9OW45SaJFG7nRSATSnW6RKc0w/640?wx_fmt=png&from=appmsg"></p>
-<p><strong>大一新生在选定意向学院后，大一上学期的专业课课课表会被教务处直接分配好<strong><strong>，除了PED1001体育课要进行抢课。</strong></strong>但如果你已经决心跨学院转专业的话，那么你应该按照你想转的跨学院专业的修读计划进行专业课的加退课。</strong>  </p>
-<p>不同入学时间，不同专业的修读计划查询：  </p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">https://registry.cuhk.edu.cn/page/22</span><br></pre></td></tr></table></figure>
-
-<p>也可以看之前我写的另外一篇文章<a href="http://mp.weixin.qq.com/s?__biz=MzkwODY0NTM3Mw==&mid=2247483726&idx=1&sn=60e268b9693a83f3ca0fac7dce71be61&chksm=c0c787dcf7b00ecaa715f9b707cfa026bb1eb6508607bf91fcc47794e17ca7831f931e812f88&scene=21#wechat_redirect">LGU生存指南（三） - - 如何符合毕业标准及副修专业申报</a>，里面也有提及查询。</p>
-<hr>
-<p>大一上学期都是修读基础课程，查看<strong>你意向的跨学院专业</strong>的修读计划里面的<strong>School Package</strong>，了解你要选什么课程，退什么课程。因为包括CHI1000，ENG1001，PED1001等诸多课程都是大学核心课程，每位本科生都要修读。</p>
-<p>了解完你想转的专业的修读计划后，便可以进行加退课的操作了。</p>
-<hr>
-<h2 id="大一跨学院转专业的加退课具体操作流程"><a href="#大一跨学院转专业的加退课具体操作流程" class="headerlink" title="大一跨学院转专业的加退课具体操作流程"></a>大一跨学院转专业的加退课具体操作流程</h2><p><strong>大一上学期</strong>由于教务处已经排好课表，为了符合修读计划，需要采用 “ 退课 + 加课 ” 的操作。</p>
-<p><strong>退课流程：把教务处分配给你的学院课程去学院办公室填表进行退课，不同学院有不同的规定，具体细节可以到达你想转的学院的线下办公室去询问。</strong></p>
-<p>附上各个学院的线下地址：</p>
-<p>经管学院：Room 532-534, Teaching A Building</p>
-<p>人文社科学院：12F, Teaching Complex B</p>
-<p>理工学院：TD-C603 (Education)，TD-C501 (Career Development), TD-C413A (Student Care)</p>
-<p>数据科学学院：3 - 6 Floor, Dao Yuan Building</p>
-<p>医学院：MED Start-up Building</p>
-<p>音乐学院：501 Longfei Boulevard</p>
-<p>公共政策学院：尚在筹办</p>
-<p><strong>加课流程：因为你并不是意向学院的学生，因此在加课的时候只能采用交表的方式进行加课，还是推荐先给专业课的老师发邮件表明想法，获得批准更容易交表加上课。</strong></p>
-<p><strong>大一下学期便只有加课的流程，依旧采用交表的方式加课。</strong></p>
-<hr>
-<h2 id="大一结束后如何进行专业的操作？"><a href="#大一结束后如何进行专业的操作？" class="headerlink" title="大一结束后如何进行专业的操作？"></a>大一结束后如何进行专业的操作？</h2><p>大一结束后，教务处会统一发送邮件询问是否要进行跨学院转专业，附件包含具体的操作。</p>
-<p>如下图：</p>
-<p><img src="https://mmbiz.qpic.cn/mmbiz_png/Vj5GibmSe1DI2vPNm2ujicToIAAfRicZ538BVMJKZeItxoaqnVVhbjrXDeZXSXSYoPdvxibVblcN7nsCIN6ld4AjeA/640?wx_fmt=png&from=appmsg"></p>
-<hr>
-<h2 id="常见问题："><a href="#常见问题：" class="headerlink" title="常见问题："></a>常见问题：</h2><h3 id="如果提交了申请迟迟没有回复，担心会不会有材料缺少致使跨学院转专业失败？"><a href="#如果提交了申请迟迟没有回复，担心会不会有材料缺少致使跨学院转专业失败？" class="headerlink" title="如果提交了申请迟迟没有回复，担心会不会有材料缺少致使跨学院转专业失败？"></a>如果提交了申请迟迟没有回复，担心会不会有材料缺少致使跨学院转专业失败？</h3><p><img src="https://mmbiz.qpic.cn/mmbiz_png/Vj5GibmSe1DI2vPNm2ujicToIAAfRicZ538cvPHQTZgMkmlSUOF51qib515bfDWXpqOSdfvBzxNLTx281iaQ2dtmPVg/640?wx_fmt=png&from=appmsg"></p>
-<p><img src="https://mmbiz.qpic.cn/mmbiz_png/Vj5GibmSe1DI2vPNm2ujicToIAAfRicZ538YcKzUPeqzwFRvUiapFm1jibzRwWeknj41Hx1gMAhlTOg4Ko8xbomia54Q/640?wx_fmt=png&from=appmsg"></p>
-<p>（都是我问的www）  </p>
-<p>不用担心，若是有材料缺失的话后面可以继续补交。  </p>
-<p><img src="https://mmbiz.qpic.cn/mmbiz_png/Vj5GibmSe1DI2vPNm2ujicToIAAfRicZ5389hf64nLscveO9Yy0icZTz5qyIiav1rJgbIN65zGuibg0CjpDcm0bQFicMA/640?wx_fmt=png&from=appmsg"></p>
-<hr>
-<h3 id="我同时提交多份跨学院转专业申请，最后会通过哪份？"><a href="#我同时提交多份跨学院转专业申请，最后会通过哪份？" class="headerlink" title="我同时提交多份跨学院转专业申请，最后会通过哪份？"></a>我同时提交多份跨学院转专业申请，最后会通过哪份？</h3><p>只会通过你确定的那一份。  </p>
-<p><img src="https://mmbiz.qpic.cn/mmbiz_png/Vj5GibmSe1DI2vPNm2ujicToIAAfRicZ538VpuRCBAcPcFWEMRDdEdbH2ZiaRyvZic9uhnnmkWnAgjugiaFuveesDwGQ/640?wx_fmt=png&from=appmsg"></p>
-<hr>
-<h3 id="什么时候可以知晓跨学院转专业成功？"><a href="#什么时候可以知晓跨学院转专业成功？" class="headerlink" title="什么时候可以知晓跨学院转专业成功？"></a>什么时候可以知晓跨学院转专业成功？</h3><p>跨学院转专业成功的话会收到邮件：</p>
-<p><img src="https://mmbiz.qpic.cn/mmbiz_png/Vj5GibmSe1DI2vPNm2ujicToIAAfRicZ538DrzUzeEO4jBnRphgtcrkicDnibef9ewPhlcwYooJs6Had7Xiaa23TLtRg/640?wx_fmt=png&from=appmsg"></p>
-<hr>
-<p>时间匆匆，就此停笔，祝诸位都能明确自己的方向。</p>
-<p>而抹茶将继续猴王之旅，直面天命！</p>
-<hr>
 ]]></content>
       <categories>
         <category>校园</category>
       </categories>
-      <tags>
-        <tag>LGU指南</tag>
-      </tags>
   </entry>
   <entry>
     <title>LGU生存指南（一） - - 如何快速高效地上手sis</title>
@@ -822,67 +669,6 @@
 ]]></content>
       <categories>
         <category>校园</category>
-      </categories>
-      <tags>
-        <tag>LGU指南</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>CA | Lguer觅食记（第一弹）</title>
-    <url>/cuhksz/lgu-guide-7/</url>
-    <content><![CDATA[<meta name="referrer" content="never"/>
-
-<blockquote>
-<p>文章来源于微信公众号”神仙湖畔的薯塔”<br>原文地址：<a href="https://mp.weixin.qq.com/s/mVdNLPUFE0Cl8wbARBqFBA">CA | Lguer觅食记（第一弹）</a></p>
-</blockquote>
-<p><strong>龙大美食</strong></p>
-<p>你，值得一试</p>
-<p>什么？饭堂排不上队，刚入学就吃腻了？看看学校周边，不知道哪里有好吃的？深圳是美食荒漠？</p>
-<p>别急！薯塔为大家搜刮了一系列美食！</p>
-<hr>
-<h2 id="HOTPOT-火锅篇"><a href="#HOTPOT-火锅篇" class="headerlink" title="HOTPOT 火锅篇"></a>HOTPOT 火锅篇</h2><h3 id="大名鼎鼎：海底捞"><a href="#大名鼎鼎：海底捞" class="headerlink" title="大名鼎鼎：海底捞"></a>大名鼎鼎：海底捞</h3><img src="https://mmbiz.qpic.cn/mmbiz_jpg/ALq2cia7vGr00wuLickulX19He2KqhRk6gk89bibkIEURCI041RbNzg2A8Wwnptr52owmZf09iaXefcFsOmZfZuIIg/640?wx_fmt=jpeg" width="500">
-
-<p>首先当然是海底捞啦！距离最近的是龙岗星河COCO Park店，可以地铁直达！<br>📍具体位置：龙岗星河COCOPark 5F<br>💰人均消费：￥120左右</p>
-<h3 id="校外食堂：周记"><a href="#校外食堂：周记" class="headerlink" title="校外食堂：周记"></a>校外食堂：周记</h3><img src="https://mmbiz.qpic.cn/mmbiz_jpg/ALq2cia7vGr00wuLickulX19He2KqhRk6gjDafoHiaZMeKOgYRWx8LfibToVhmQ739CQ9LFDyMMQv7y7K91uzIE5EQ/640?wx_fmt=jpeg" width="500">
-
-<p>港中深校外饭堂，平价好吃的潮汕牛肉火锅！<br>📍具体位置：荷坳C口附近<br>💰人均消费：￥100左右</p>
-<h3 id="新起之秀：潮汕溪牛庄"><a href="#新起之秀：潮汕溪牛庄" class="headerlink" title="新起之秀：潮汕溪牛庄"></a>新起之秀：潮汕溪牛庄</h3><img src="https://mmbiz.qpic.cn/mmbiz_jpg/ALq2cia7vGr00wuLickulX19He2KqhRk6gHOsMA0ldpicFqGyJEfrUaXvChm3ccJn0Ls8B1ViaPxhIoCq9XicZsr6bg/640?wx_fmt=jpeg" width="500">
-
-<p>最新发现的牛肉火锅！距离上园也很近~<br>📍具体位置：龙岗区飞扬路椰味面包鸡隔壁<br>💰人均消费：￥69左右</p>
-<h2 id="DIMSUM-早茶篇"><a href="#DIMSUM-早茶篇" class="headerlink" title="DIMSUM 早茶篇"></a>DIMSUM 早茶篇</h2><h3 id="性价比高：悦得闲"><a href="#性价比高：悦得闲" class="headerlink" title="性价比高：悦得闲"></a>性价比高：悦得闲</h3><img src="https://mmbiz.qpic.cn/mmbiz_jpg/ALq2cia7vGr00wuLickulX19He2KqhRk6g9HkOXl6PrWLD5QcJN9fQZpckTUlk4vSO2sglsLncwAx0t8ZuJsS6rg/640?wx_fmt=jpeg" width="500">
-
-<p>比较近的是天光城店，美团上有券会便宜一些！<br>📍具体位置：爱联D口附近<br>💰人均消费：￥80左右</p>
-<h3 id="新式茶点：蔡澜"><a href="#新式茶点：蔡澜" class="headerlink" title="新式茶点：蔡澜"></a>新式茶点：蔡澜</h3><img src="https://mmbiz.qpic.cn/mmbiz_jpg/ALq2cia7vGr00wuLickulX19He2KqhRk6g4LPyQ4ISehegsaUkXycdjVnw9KMI0YoRxYFBB5pg3GIwPcric6SgCYQ/640?wx_fmt=jpeg" width="500">
-
-<p>是广深很出名的连锁店！酥皮山楂叉烧包超好吃🉑<br>📍具体位置：龙岗万科广场4F<br>💰人均消费：￥100左右</p>
-<h3 id="其他选择：老广新意"><a href="#其他选择：老广新意" class="headerlink" title="其他选择：老广新意"></a>其他选择：老广新意</h3><img src="https://mmbiz.qpic.cn/mmbiz_jpg/ALq2cia7vGr00wuLickulX19He2KqhRk6g4CMlmIZT4icccoe0CUIwsxjChda8OYnLTXBukwcdlofdO62ovr0eBXQ/640?wx_fmt=jpeg" width="500">
-
-<p>工作日打八折，味道中规中矩，超大舒芙蕾可以尝试！<br>📍具体位置：龙岗金基吉祥广场5F<br>💰人均消费：￥80左右</p>
-<h2 id="BARBECUE-烧烤烤肉篇"><a href="#BARBECUE-烧烤烤肉篇" class="headerlink" title="BARBECUE 烧烤烤肉篇"></a>BARBECUE 烧烤烤肉篇</h2><h3 id="新来乍到：很久以前羊肉串"><a href="#新来乍到：很久以前羊肉串" class="headerlink" title="新来乍到：很久以前羊肉串"></a>新来乍到：很久以前羊肉串</h3><img src="https://mmbiz.qpic.cn/mmbiz_jpg/ALq2cia7vGr00wuLickulX19He2KqhRk6gQ4A9Z0wmfAMNR9vsmyOQLs6G0eRTUrErd87hRU9kBhicFleDgfInvibg/640?wx_fmt=jpeg" width="500">
-
-<p>大运天地新开的店，羊肉串很好吃！等位的时候还可以拿雪糕<br>📍具体位置：大运天地北区5栋2F<br>💰人均消费：￥85左右</p>
-<h3 id="薯塔最爱：陈姐东北烤串"><a href="#薯塔最爱：陈姐东北烤串" class="headerlink" title="薯塔最爱：陈姐东北烤串"></a>薯塔最爱：陈姐东北烤串</h3><img src="https://mmbiz.qpic.cn/mmbiz_jpg/ALq2cia7vGr00wuLickulX19He2KqhRk6gh7RuCEQBqNPVibcdLWIHf8CTJrYxNQKdeDlfvLybHibHQGVfWHHjoL0A/640?wx_fmt=jpeg" width="500">
-
-<p>真的有人不喜欢陈姐吗?!?!东北朋友高度评价！还有锅包肉和哈尔滨红肠！超喜欢烤面包片~<br>📍具体位置：中海塞纳时光25栋<br>💰人均消费：￥65左右</p>
-<h3 id="吃到扶墙：大阪烧肉baka一代"><a href="#吃到扶墙：大阪烧肉baka一代" class="headerlink" title="吃到扶墙：大阪烧肉baka一代"></a>吃到扶墙：大阪烧肉baka一代</h3><img src="https://mmbiz.qpic.cn/mmbiz_jpg/ALq2cia7vGr00wuLickulX19He2KqhRk6gjw5G5AwxfAawtyeKypKicBWN8uzBZibDb1KNe4gRyquSHy3kscQicVhRg/640?wx_fmt=jpeg" width="500">
-
-<p>性价比拉满的烤肉自助！<br>📍具体位置：大运3号口附近<br>💰人均消费：￥168单人放题</p>
-<h2 id="DESSER-甜品篇"><a href="#DESSER-甜品篇" class="headerlink" title="DESSER 甜品篇"></a>DESSER 甜品篇</h2><h3 id="非常惊艳：Lab-Orange"><a href="#非常惊艳：Lab-Orange" class="headerlink" title="非常惊艳：Lab Orange"></a>非常惊艳：Lab Orange</h3><img src="https://mmbiz.qpic.cn/mmbiz_jpg/ALq2cia7vGr00wuLickulX19He2KqhRk6gEz18ZXRl5Iaic58j0LOps3v39CGSgOIo6RDFA6wOqDXftzkcbuQsNYg/640?wx_fmt=jpeg" width="500">
-
-<p>漂亮下午茶店！肉桂卷很好吃（肉桂星人狂喜！），可露丽第一次尝试也被狠狠惊艳！</p>
-<p>ps 这家店好像有港中深外卖群，可送到上下园<br>📍具体位置：吉祥D口附近<br>💰人均消费：￥40左右</p>
-<h3 id="面包脑袋：川平面包屋"><a href="#面包脑袋：川平面包屋" class="headerlink" title="面包脑袋：川平面包屋"></a>面包脑袋：川平面包屋</h3><img src="https://mmbiz.qpic.cn/mmbiz_jpg/ALq2cia7vGr00wuLickulX19He2KqhRk6gH1brDeq203eFRuR7icJtXLNHx3oadeXqQFakYbZdYLlUk92Axkv5pRg/640?wx_fmt=jpeg" width="500">
-
-<p>面包脑袋超喜欢的一家！还有校内外卖群~会随机掉落小礼物<br>📍具体位置：龙城CC创意街区<br>💰人均消费：￥30左右</p>
-<h3 id="低糖平价：禧芋甜品"><a href="#低糖平价：禧芋甜品" class="headerlink" title="低糖平价：禧芋甜品"></a>低糖平价：禧芋甜品</h3><img src="https://mmbiz.qpic.cn/mmbiz_jpg/ALq2cia7vGr00wuLickulX19He2KqhRk6gc46AGO2StmZ4f5r18GEiaicFyZlEiae2UwOQ3Et1I3SH1ea7rNzwMwTxQ/640?wx_fmt=jpeg" width="500">
-
-<p>喜欢糯叽叽的麻糍！低糖甜品平价又量大<br>📍具体位置：吉祥附近<br>💰人均消费：￥20左右</p>
-<hr>
-<p>什么？你最喜欢的餐厅没有被提名？</p>
-<p>欢迎公众号后台投稿或进入CA小程序分享你最爱的龙大美食！期待美食总结的第二弹哦~</p>
-<img src="https://mmbiz.qpic.cn/mmbiz_png/GhyMA80sXD4RJNML42BlyW76DLRhGrLuuVxyAsJ9Uk2Fhnz2PfP0RH29icUUum4yfuDOms4esqxaKCzTiaSYyHmg/640?wx_fmt=png" width="500">]]></content>
-      <categories>
-        <category>生活</category>
       </categories>
       <tags>
         <tag>LGU指南</tag>
@@ -1028,6 +814,251 @@
       </tags>
   </entry>
   <entry>
+    <title>LGU生存指南（四） - - 如何实现跨学院转专业</title>
+    <url>/cuhksz/lgu-guide-4/</url>
+    <content><![CDATA[<meta name="referrer" content="never"/>
+
+<blockquote>
+<p>文章来源于微信公众号”抹茶Mattya”<br>原文地址：<a href="https://mp.weixin.qq.com/s/Tk9Qjd38TTiTKs0VQeRNWA">LGU生存指南（四） - - 如何实现跨学院转专业</a></p>
+</blockquote>
+<p><strong>在看这篇文章之前，请先阅读完前三篇生存指南，不然可能会有理解上的困难。</strong></p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkwODY0NTM3Mw==&mid=2247483706&idx=1&sn=28269ae673b141b43e3c8a68971302a7&chksm=c0c787a8f7b00ebe956bdcd32c3c3fefd9fb239b0ae51ffad3d51d8068094f618fd84e2f899b&scene=21#wechat_redirect"><strong>LGU生存指南（一） - - 如何快速高效地上手sis</strong></a>  </p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkwODY0NTM3Mw==&mid=2247483718&idx=1&sn=e080092f9b216825fe2161f9784798a6&chksm=c0c787d4f7b00ec21b706ee47fd182dec067a2beca52fd64adf2041ab3bf0e7b1acafe046c05&scene=21#wechat_redirect"><strong>LGU生存指南（二） - - 如何交表 + 如何科学使用 Add &amp; Drop Week</strong></a>  </p>
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzkwODY0NTM3Mw==&mid=2247483726&idx=1&sn=60e268b9693a83f3ca0fac7dce71be61&chksm=c0c787dcf7b00ecaa715f9b707cfa026bb1eb6508607bf91fcc47794e17ca7831f931e812f88&scene=21#wechat_redirect"><strong>LGU生存指南（三） - - 如何符合毕业标准及副修专业申报</strong></a></p>
+<hr>
+<p>在入学前，大一的新同学们会事先选择意向学院，但是由于各种各样的原因，如许多同学会考虑学院内的转专业或者跨学院的转专业。学院内转专业的流程十分简单，且最早也是在大二结束后才会有学院内转专业的需求，<strong>本文仅对于跨学院转专业给出具体方案</strong>。</p>
+<hr>
+<h2 id="香港中文大学（深圳）的转专业政策"><a href="#香港中文大学（深圳）的转专业政策" class="headerlink" title="香港中文大学（深圳）的转专业政策"></a>香港中文大学（深圳）的转专业政策</h2><p>香港中文大学（深圳）教务处官网，针对跨学院的转专业给出了具体说明。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">https://registry.cuhk.edu.cn/page/25</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>1.申请跨学院转专业学生须满足以下三项条件中的至少一项，方可获学院考虑批准转专业：(1)已修拟转入专业课程的6个学分，并平均成绩不低于B- (2)入学成绩须高于拟转入专业当年同一省份录取成绩排名最后10%的学生 (3)当年累计平均绩点不低于3.0</p>
+<p>香港中文大学（深圳）转专业须知（跨学院）</p>
+</blockquote>
+<p><strong><img src="https://mmbiz.qpic.cn/mmbiz_png/Vj5GibmSe1DI2vPNm2ujicToIAAfRicZ538xjA75q471UwFxkWkiablxTKib9DtLbQZ9icKVqRhp7I8fjGxsBicbOAndA/640?wx_fmt=png&from=appmsg"></strong></p>
+<p><strong>由此可见，在香港中文大学（深圳）转专业的限制其实很少，上述三条只需满足一条就可以申请跨学院转专业。</strong></p>
+<hr>
+<h2 id="大一新生决定好了跨学院转专业，我应该在大一上学期修读什么？"><a href="#大一新生决定好了跨学院转专业，我应该在大一上学期修读什么？" class="headerlink" title="大一新生决定好了跨学院转专业，我应该在大一上学期修读什么？"></a>大一新生决定好了跨学院转专业，我应该在大一上学期修读什么？</h2><p><img src="https://mmbiz.qpic.cn/mmbiz_png/Vj5GibmSe1DI2vPNm2ujicToIAAfRicZ538aRG4Z7tUaEYNqXpOJcpCbvibB6nnzic9OW45SaJFG7nRSATSnW6RKc0w/640?wx_fmt=png&from=appmsg"></p>
+<p><strong>大一新生在选定意向学院后，大一上学期的专业课课课表会被教务处直接分配好<strong><strong>，除了PED1001体育课要进行抢课。</strong></strong>但如果你已经决心跨学院转专业的话，那么你应该按照你想转的跨学院专业的修读计划进行专业课的加退课。</strong>  </p>
+<p>不同入学时间，不同专业的修读计划查询：  </p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">https://registry.cuhk.edu.cn/page/22</span><br></pre></td></tr></table></figure>
+
+<p>也可以看之前我写的另外一篇文章<a href="http://mp.weixin.qq.com/s?__biz=MzkwODY0NTM3Mw==&mid=2247483726&idx=1&sn=60e268b9693a83f3ca0fac7dce71be61&chksm=c0c787dcf7b00ecaa715f9b707cfa026bb1eb6508607bf91fcc47794e17ca7831f931e812f88&scene=21#wechat_redirect">LGU生存指南（三） - - 如何符合毕业标准及副修专业申报</a>，里面也有提及查询。</p>
+<hr>
+<p>大一上学期都是修读基础课程，查看<strong>你意向的跨学院专业</strong>的修读计划里面的<strong>School Package</strong>，了解你要选什么课程，退什么课程。因为包括CHI1000，ENG1001，PED1001等诸多课程都是大学核心课程，每位本科生都要修读。</p>
+<p>了解完你想转的专业的修读计划后，便可以进行加退课的操作了。</p>
+<hr>
+<h2 id="大一跨学院转专业的加退课具体操作流程"><a href="#大一跨学院转专业的加退课具体操作流程" class="headerlink" title="大一跨学院转专业的加退课具体操作流程"></a>大一跨学院转专业的加退课具体操作流程</h2><p><strong>大一上学期</strong>由于教务处已经排好课表，为了符合修读计划，需要采用 “ 退课 + 加课 ” 的操作。</p>
+<p><strong>退课流程：把教务处分配给你的学院课程去学院办公室填表进行退课，不同学院有不同的规定，具体细节可以到达你想转的学院的线下办公室去询问。</strong></p>
+<p>附上各个学院的线下地址：</p>
+<p>经管学院：Room 532-534, Teaching A Building</p>
+<p>人文社科学院：12F, Teaching Complex B</p>
+<p>理工学院：TD-C603 (Education)，TD-C501 (Career Development), TD-C413A (Student Care)</p>
+<p>数据科学学院：3 - 6 Floor, Dao Yuan Building</p>
+<p>医学院：MED Start-up Building</p>
+<p>音乐学院：501 Longfei Boulevard</p>
+<p>公共政策学院：尚在筹办</p>
+<p><strong>加课流程：因为你并不是意向学院的学生，因此在加课的时候只能采用交表的方式进行加课，还是推荐先给专业课的老师发邮件表明想法，获得批准更容易交表加上课。</strong></p>
+<p><strong>大一下学期便只有加课的流程，依旧采用交表的方式加课。</strong></p>
+<hr>
+<h2 id="大一结束后如何进行专业的操作？"><a href="#大一结束后如何进行专业的操作？" class="headerlink" title="大一结束后如何进行专业的操作？"></a>大一结束后如何进行专业的操作？</h2><p>大一结束后，教务处会统一发送邮件询问是否要进行跨学院转专业，附件包含具体的操作。</p>
+<p>如下图：</p>
+<p><img src="https://mmbiz.qpic.cn/mmbiz_png/Vj5GibmSe1DI2vPNm2ujicToIAAfRicZ538BVMJKZeItxoaqnVVhbjrXDeZXSXSYoPdvxibVblcN7nsCIN6ld4AjeA/640?wx_fmt=png&from=appmsg"></p>
+<hr>
+<h2 id="常见问题："><a href="#常见问题：" class="headerlink" title="常见问题："></a>常见问题：</h2><h3 id="如果提交了申请迟迟没有回复，担心会不会有材料缺少致使跨学院转专业失败？"><a href="#如果提交了申请迟迟没有回复，担心会不会有材料缺少致使跨学院转专业失败？" class="headerlink" title="如果提交了申请迟迟没有回复，担心会不会有材料缺少致使跨学院转专业失败？"></a>如果提交了申请迟迟没有回复，担心会不会有材料缺少致使跨学院转专业失败？</h3><p><img src="https://mmbiz.qpic.cn/mmbiz_png/Vj5GibmSe1DI2vPNm2ujicToIAAfRicZ538cvPHQTZgMkmlSUOF51qib515bfDWXpqOSdfvBzxNLTx281iaQ2dtmPVg/640?wx_fmt=png&from=appmsg"></p>
+<p><img src="https://mmbiz.qpic.cn/mmbiz_png/Vj5GibmSe1DI2vPNm2ujicToIAAfRicZ538YcKzUPeqzwFRvUiapFm1jibzRwWeknj41Hx1gMAhlTOg4Ko8xbomia54Q/640?wx_fmt=png&from=appmsg"></p>
+<p>（都是我问的www）  </p>
+<p>不用担心，若是有材料缺失的话后面可以继续补交。  </p>
+<p><img src="https://mmbiz.qpic.cn/mmbiz_png/Vj5GibmSe1DI2vPNm2ujicToIAAfRicZ5389hf64nLscveO9Yy0icZTz5qyIiav1rJgbIN65zGuibg0CjpDcm0bQFicMA/640?wx_fmt=png&from=appmsg"></p>
+<hr>
+<h3 id="我同时提交多份跨学院转专业申请，最后会通过哪份？"><a href="#我同时提交多份跨学院转专业申请，最后会通过哪份？" class="headerlink" title="我同时提交多份跨学院转专业申请，最后会通过哪份？"></a>我同时提交多份跨学院转专业申请，最后会通过哪份？</h3><p>只会通过你确定的那一份。  </p>
+<p><img src="https://mmbiz.qpic.cn/mmbiz_png/Vj5GibmSe1DI2vPNm2ujicToIAAfRicZ538VpuRCBAcPcFWEMRDdEdbH2ZiaRyvZic9uhnnmkWnAgjugiaFuveesDwGQ/640?wx_fmt=png&from=appmsg"></p>
+<hr>
+<h3 id="什么时候可以知晓跨学院转专业成功？"><a href="#什么时候可以知晓跨学院转专业成功？" class="headerlink" title="什么时候可以知晓跨学院转专业成功？"></a>什么时候可以知晓跨学院转专业成功？</h3><p>跨学院转专业成功的话会收到邮件：</p>
+<p><img src="https://mmbiz.qpic.cn/mmbiz_png/Vj5GibmSe1DI2vPNm2ujicToIAAfRicZ538DrzUzeEO4jBnRphgtcrkicDnibef9ewPhlcwYooJs6Had7Xiaa23TLtRg/640?wx_fmt=png&from=appmsg"></p>
+<hr>
+<p>时间匆匆，就此停笔，祝诸位都能明确自己的方向。</p>
+<p>而抹茶将继续猴王之旅，直面天命！</p>
+<hr>
+]]></content>
+      <categories>
+        <category>校园</category>
+      </categories>
+      <tags>
+        <tag>LGU指南</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>LGU​便捷生活（一） - - 如何在校园内提高自己的经济能力</title>
+    <url>/cuhksz/lgu-guide-5/</url>
+    <content><![CDATA[<meta name="referrer" content="never"/>
+
+<blockquote>
+<p>文章来源于微信公众号”抹茶Mattya”<br>原文地址：<a href="https://mp.weixin.qq.com/s/5GmKp--nuIB4IObLV1rP7A">LGU​便捷生活（一） - - 如何在校园内提高自己的经济能力</a></p>
+</blockquote>
+<p><strong>在LGU生存指南外开辟新的专题啦！！！暂定为LGU便捷生活！！</strong></p>
+<p><strong>写在前面：</strong></p>
+<p><strong>1. 无论何时，请一定要拒绝校园贷！拒绝校园贷！拒绝校园贷！</strong></p>
+<p><strong>2. 请一定平衡好学业与赚钱，在大学最重要的事情往往是学习。</strong></p>
+<p><strong>3. 本文适用于想在课外赚取一定生活费的同学，数额不会很大。</strong></p>
+<hr>
+<p>进入校园，便已半只脚踏入了社会，在拿到生活费的一刻，除了有着可以随意支配资金的自由外，有形无形中也会承担一些额外的需求，人们对美好生活的不断向往注定让人渴望更高层次的生活，同样的，也需要更高层次的经济能力，本文将会介绍在校园内如何在课余生活赚取生活费提高自己的经济能力。</p>
+<hr>
+<h2 id="学生助理岗位（Student-Assistant）"><a href="#学生助理岗位（Student-Assistant）" class="headerlink" title="学生助理岗位（Student Assistant）"></a>学生助理岗位（Student Assistant）</h2><p>学校中有着许多部门，如书院，学院，资讯科技服务处ITSO等，这些部门会在<strong>每学年初公开招募学生助理。</strong></p>
+<p>如下图：</p>
+<p><img src="https://mmbiz.qpic.cn/mmbiz_png/Vj5GibmSe1DKU0rHzcoBFhibslaPYxm0dtnltcB9xPK4gu3wAkVZZFH4peTegEJ5IXcibS8ucMpLSc994GkibV1L7A/640?wx_fmt=png&from=appmsg"></p>
+<p>学生助理岗位，顾名思义，是在部门与部门老师共事，并提供一定协助的岗位。在不同的部门里学生助理的职责不同，但极大部分的学生助理岗位都十分轻松，部门氛围也很轻松，老师们也都乐于指导你应该怎么做，因此不必担心自己会不会因为什么都不会而被冷落。  </p>
+<p><strong>担任学生助理，工作期间会统计工时，绝大多数的学生助理岗位时薪都为25&#x2F;h。月末各个部门会统一计算学生助理的工时，并上报给教务处，本月的工资会在下个月的20号左右打入开学时拿到的那张中信银行卡中。</strong></p>
+<p>单月学生助理的工资缴税起征点是800块，超过的部分按照20%的税率上交，但在第二年可以通过 “ 个人所得税 ” 进行退税。</p>
+<p><strong>每个学生只能签订一份学生助理的协议，且一般都是一年起签。</strong></p>
+<p><strong>学生助理协议如下图：</strong></p>
+<p><img src="https://mmbiz.qpic.cn/mmbiz_png/Vj5GibmSe1DKU0rHzcoBFhibslaPYxm0dtQTvNan16k8jOkxOfKygic21kWqfs8UjJBJ1U2kwhfic1uALCj5gibKgMw/640?wx_fmt=png&from=appmsg"></p>
+<p><strong>常见问题：</strong></p>
+<p><strong>1. 从哪里可以了解学生助理岗位的招聘信息？</strong></p>
+<p><strong>学年初，各个部门会在线下进行宣传，对某个部门的学生助理岗位感兴趣的话可以直接参加报名。同时，各个部门也会通过邮件公开招聘学生助理，可以多留意邮件信息。</strong></p>
+<p><strong>少数临时开放的学生助理岗位也可以通过香港中文大学（深圳）学生工作管理系统了解，在右侧的 “ 勤工助学 ” - - “ 临时岗位申请 ” 可以看到少量的学生助理岗位。</strong></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">https://stu.cuhk.edu.cn/</span><br></pre></td></tr></table></figure>
+
+<p><img src="https://mmbiz.qpic.cn/mmbiz_png/Vj5GibmSe1DKU0rHzcoBFhibslaPYxm0dtrcCw8FdanajQCjMdGWPSWYqo7kvqoT6sZbDmCH4tnqA0rhbbic18uPg/640?wx_fmt=png&from=appmsg"></p>
+<hr>
+<p><strong>2. 哪个部门的工作比较轻松？</strong></p>
+<p>各个部门的工作不一样，但抹茶会推荐大家去资讯科技服务处ITSO，大一一年在这里学到了很多东西，而且实际体验感觉工作轻松，氛围也很好。</p>
+<hr>
+<p><strong>3. 学生助理是如何安排上班时间的，会不会和我的课程时间冲突？</strong></p>
+<p><strong>一般在开学前就会收集好每位学生助理的课表进行排版，也会直接发问卷询问什么时候有空。</strong></p>
+<hr>
+<h2 id="科研助理-Research-Assistant-（RA）"><a href="#科研助理-Research-Assistant-（RA）" class="headerlink" title="科研助理 Research Assistant （RA）"></a>科研助理 Research Assistant （RA）</h2><p>科研助理，是协助老师进行科研任务的职位，具体工资和工作时间都比较离散，有自费进组，也有会定时发放一定酬劳的，具体请看要看各个老师的资金拨款，但一般都在50&#x2F;h左右，并且有时会事先划定科研助理的总工时。</p>
+<p>单月科研助理的工资缴税起征点是800块，超过的部分按照20%的税率上交，但在第二年可以通过 “ 个人所得税 ” 进行退税。</p>
+<p>但科研助理的本职工作进行科研，酬劳只是额外的奖励，能在科研中收获知识会是更加有益的。  </p>
+<p><strong>科研助理协议如下图：</strong></p>
+<p><img src="https://mmbiz.qpic.cn/mmbiz_png/Vj5GibmSe1DKU0rHzcoBFhibslaPYxm0dt3YF2PtJqlCdyhCkcRIVtPW0QDs48wmXwe1oRCKibsbVMXibrice10Oo6Q/640?wx_fmt=png&from=appmsg"></p>
+<hr>
+<h2 id="本科生助教-Undergraduate-Student-Teaching-Fellow-USTF"><a href="#本科生助教-Undergraduate-Student-Teaching-Fellow-USTF" class="headerlink" title="本科生助教 Undergraduate Student Teaching Fellow (USTF)"></a>本科生助教 Undergraduate Student Teaching Fellow (USTF)</h2><p>一门课程的tutorial是由高年级的学长学姐讲授的，他们被称作USTF，在学期结束后，各个学院会发送USTF的报名链接，也可以找到开课老师询问是否缺少USTF，直接和老师对接交流。</p>
+<p>但由于名额的稀少，USTF的竞争十分激烈。</p>
+<p>USTF申请人应满足以下基本要求（以经管学院为例）：</p>
+<blockquote>
+<p>（1） 累积 GPA &gt;&#x3D; 3.3</p>
+<p>（2） 在香港中文大学（深圳）的英语必修课程中取得好成绩</p>
+<p>（3） 申请 USTF 职位的课程 A&#x2F;A-</p>
+<p>不符合所列基本要求部分的申请人，如果在所列其他基本要求中表现非常突出，仍可予考虑。</p>
+<p>该任命暂定在 2024-25 学年第一学期的 4 个月左右，预计时薪约为 65 元（取决于所涉及的小时数，最高为每月 1300 元左右）。</p>
+<p>Application for Undergraduate Student Teaching Fellow (USTF): Term 1 of 2024-25</p>
+</blockquote>
+<h2 id="4-大学生家教"><a href="#4-大学生家教" class="headerlink" title="4. 大学生家教"></a>4. 大学生家教</h2><p>做家教算是大学生提升经济能力最快的方法了，其中许多门道需要各位多去打听探索，但请一定要大胆地抓住机会，真诚和热情永远是打动家长的第一步，教书能力是留住学生的最好法宝。<strong>（抹茶这个月当家教就快赚到了小10k，快夸夸我！）</strong></p>
+<p>每日&#x2F;每周课后的反馈也可以让家长实时了解进度，也更加体现你的负责和细心。</p>
+<hr>
+<p>常见问题：</p>
+<p><strong>1. 怎么才能了解到哪里需要大学生家教？</strong></p>
+<p>可以通过论坛，学长学姐的介绍，家教群去了解，但不可避免会遇到信息费的收取，也请各位自行判断。</p>
+<hr>
+<p><strong>2. 大学生家教时薪多少合适？</strong></p>
+<p>要参考所教学生的年级，科目以及授课内容来综合判断。</p>
+<hr>
+<p>在校内提升经济能力的方法就这大致几类，当然也有包括做自媒体，录制讲题视频等别的副业收入，但是抹茶不太了解便不写在此处。学校内的岗位每个月也可创造小1k的额外收入，对于爱吃的抹茶还是一笔很可观的收入。  </p>
+<p>但无论何时，在大学的学习往往是学习为重，在争取额外收入的同时，请一定也要平衡好学业。</p>
+<p><strong>也欢迎大家加入资讯科技服务处ITSO！！到时候我们应该也会继续在线下招聘！！</strong></p>
+<p><img src="https://mmbiz.qpic.cn/mmbiz_jpg/Vj5GibmSe1DKU0rHzcoBFhibslaPYxm0dt3xqhEU3ZO9r0c0k8KkIf8SmgqvYm5LvpPWTNuxUM6sDiapsbGBa1upQ/640?wx_fmt=jpeg&from=appmsg"></p>
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>LGU指南</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>校园地图</title>
+    <url>/cuhksz/map/</url>
+    <content><![CDATA[<h2 id="校园导览图"><a href="#校园导览图" class="headerlink" title="校园导览图"></a>校园导览图</h2><p><img src="https://www.cuhk.edu.cn/sites/webmaster.prod1.dpsite04.cuhk.edu.cn/files/styles/crop_freeform/public/2023-09/map%20230914.jpg?itok=91XM32Ss"></p>
+<h2 id="校园VR地图"><a href="#校园VR地图" class="headerlink" title="校园VR地图"></a>校园VR地图</h2><div style="position: relative; padding: 30% 45%;">
+  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://www.720yun.com/t/b2vkuqqer8b?scene_id=42010961&from=timeline&isappinstalled=0#scene_id=42010961" frameborder="1" scrolling="yes" width="320" height="240">
+    <a href="https://www.720yun.com/t/b2vkuqqer8b?scene_id=42010961&from=timeline&isappinstalled=0#scene_id=42010961">你的浏览器可能不支持iframe,请点击这里跳转相关页面</a>
+  </iframe>
+</div>
+
+<p style="text-align: center;"><a  href="https://www.720yun.com/t/b2vkuqqer8b?scene_id=42010961&from=timeline&isappinstalled=0#scene_id=42010961">点此打开全屏VR地图</a></p>]]></content>
+  </entry>
+  <entry>
+    <title>CA | Lguer觅食记（第一弹）</title>
+    <url>/cuhksz/lgu-guide-7/</url>
+    <content><![CDATA[<meta name="referrer" content="never"/>
+
+<blockquote>
+<p>文章来源于微信公众号”神仙湖畔的薯塔”<br>原文地址：<a href="https://mp.weixin.qq.com/s/mVdNLPUFE0Cl8wbARBqFBA">CA | Lguer觅食记（第一弹）</a></p>
+</blockquote>
+<p><strong>龙大美食</strong></p>
+<p>你，值得一试</p>
+<p>什么？饭堂排不上队，刚入学就吃腻了？看看学校周边，不知道哪里有好吃的？深圳是美食荒漠？</p>
+<p>别急！薯塔为大家搜刮了一系列美食！</p>
+<hr>
+<h2 id="HOTPOT-火锅篇"><a href="#HOTPOT-火锅篇" class="headerlink" title="HOTPOT 火锅篇"></a>HOTPOT 火锅篇</h2><h3 id="大名鼎鼎：海底捞"><a href="#大名鼎鼎：海底捞" class="headerlink" title="大名鼎鼎：海底捞"></a>大名鼎鼎：海底捞</h3><img src="https://mmbiz.qpic.cn/mmbiz_jpg/ALq2cia7vGr00wuLickulX19He2KqhRk6gk89bibkIEURCI041RbNzg2A8Wwnptr52owmZf09iaXefcFsOmZfZuIIg/640?wx_fmt=jpeg" width="500">
+
+<p>首先当然是海底捞啦！距离最近的是龙岗星河COCO Park店，可以地铁直达！<br>📍具体位置：龙岗星河COCOPark 5F<br>💰人均消费：￥120左右</p>
+<h3 id="校外食堂：周记"><a href="#校外食堂：周记" class="headerlink" title="校外食堂：周记"></a>校外食堂：周记</h3><img src="https://mmbiz.qpic.cn/mmbiz_jpg/ALq2cia7vGr00wuLickulX19He2KqhRk6gjDafoHiaZMeKOgYRWx8LfibToVhmQ739CQ9LFDyMMQv7y7K91uzIE5EQ/640?wx_fmt=jpeg" width="500">
+
+<p>港中深校外饭堂，平价好吃的潮汕牛肉火锅！<br>📍具体位置：荷坳C口附近<br>💰人均消费：￥100左右</p>
+<h3 id="新起之秀：潮汕溪牛庄"><a href="#新起之秀：潮汕溪牛庄" class="headerlink" title="新起之秀：潮汕溪牛庄"></a>新起之秀：潮汕溪牛庄</h3><img src="https://mmbiz.qpic.cn/mmbiz_jpg/ALq2cia7vGr00wuLickulX19He2KqhRk6gHOsMA0ldpicFqGyJEfrUaXvChm3ccJn0Ls8B1ViaPxhIoCq9XicZsr6bg/640?wx_fmt=jpeg" width="500">
+
+<p>最新发现的牛肉火锅！距离上园也很近~<br>📍具体位置：龙岗区飞扬路椰味面包鸡隔壁<br>💰人均消费：￥69左右</p>
+<h2 id="DIMSUM-早茶篇"><a href="#DIMSUM-早茶篇" class="headerlink" title="DIMSUM 早茶篇"></a>DIMSUM 早茶篇</h2><h3 id="性价比高：悦得闲"><a href="#性价比高：悦得闲" class="headerlink" title="性价比高：悦得闲"></a>性价比高：悦得闲</h3><img src="https://mmbiz.qpic.cn/mmbiz_jpg/ALq2cia7vGr00wuLickulX19He2KqhRk6g9HkOXl6PrWLD5QcJN9fQZpckTUlk4vSO2sglsLncwAx0t8ZuJsS6rg/640?wx_fmt=jpeg" width="500">
+
+<p>比较近的是天光城店，美团上有券会便宜一些！<br>📍具体位置：爱联D口附近<br>💰人均消费：￥80左右</p>
+<h3 id="新式茶点：蔡澜"><a href="#新式茶点：蔡澜" class="headerlink" title="新式茶点：蔡澜"></a>新式茶点：蔡澜</h3><img src="https://mmbiz.qpic.cn/mmbiz_jpg/ALq2cia7vGr00wuLickulX19He2KqhRk6g4LPyQ4ISehegsaUkXycdjVnw9KMI0YoRxYFBB5pg3GIwPcric6SgCYQ/640?wx_fmt=jpeg" width="500">
+
+<p>是广深很出名的连锁店！酥皮山楂叉烧包超好吃🉑<br>📍具体位置：龙岗万科广场4F<br>💰人均消费：￥100左右</p>
+<h3 id="其他选择：老广新意"><a href="#其他选择：老广新意" class="headerlink" title="其他选择：老广新意"></a>其他选择：老广新意</h3><img src="https://mmbiz.qpic.cn/mmbiz_jpg/ALq2cia7vGr00wuLickulX19He2KqhRk6g4CMlmIZT4icccoe0CUIwsxjChda8OYnLTXBukwcdlofdO62ovr0eBXQ/640?wx_fmt=jpeg" width="500">
+
+<p>工作日打八折，味道中规中矩，超大舒芙蕾可以尝试！<br>📍具体位置：龙岗金基吉祥广场5F<br>💰人均消费：￥80左右</p>
+<h2 id="BARBECUE-烧烤烤肉篇"><a href="#BARBECUE-烧烤烤肉篇" class="headerlink" title="BARBECUE 烧烤烤肉篇"></a>BARBECUE 烧烤烤肉篇</h2><h3 id="新来乍到：很久以前羊肉串"><a href="#新来乍到：很久以前羊肉串" class="headerlink" title="新来乍到：很久以前羊肉串"></a>新来乍到：很久以前羊肉串</h3><img src="https://mmbiz.qpic.cn/mmbiz_jpg/ALq2cia7vGr00wuLickulX19He2KqhRk6gQ4A9Z0wmfAMNR9vsmyOQLs6G0eRTUrErd87hRU9kBhicFleDgfInvibg/640?wx_fmt=jpeg" width="500">
+
+<p>大运天地新开的店，羊肉串很好吃！等位的时候还可以拿雪糕<br>📍具体位置：大运天地北区5栋2F<br>💰人均消费：￥85左右</p>
+<h3 id="薯塔最爱：陈姐东北烤串"><a href="#薯塔最爱：陈姐东北烤串" class="headerlink" title="薯塔最爱：陈姐东北烤串"></a>薯塔最爱：陈姐东北烤串</h3><img src="https://mmbiz.qpic.cn/mmbiz_jpg/ALq2cia7vGr00wuLickulX19He2KqhRk6gh7RuCEQBqNPVibcdLWIHf8CTJrYxNQKdeDlfvLybHibHQGVfWHHjoL0A/640?wx_fmt=jpeg" width="500">
+
+<p>真的有人不喜欢陈姐吗?!?!东北朋友高度评价！还有锅包肉和哈尔滨红肠！超喜欢烤面包片~<br>📍具体位置：中海塞纳时光25栋<br>💰人均消费：￥65左右</p>
+<h3 id="吃到扶墙：大阪烧肉baka一代"><a href="#吃到扶墙：大阪烧肉baka一代" class="headerlink" title="吃到扶墙：大阪烧肉baka一代"></a>吃到扶墙：大阪烧肉baka一代</h3><img src="https://mmbiz.qpic.cn/mmbiz_jpg/ALq2cia7vGr00wuLickulX19He2KqhRk6gjw5G5AwxfAawtyeKypKicBWN8uzBZibDb1KNe4gRyquSHy3kscQicVhRg/640?wx_fmt=jpeg" width="500">
+
+<p>性价比拉满的烤肉自助！<br>📍具体位置：大运3号口附近<br>💰人均消费：￥168单人放题</p>
+<h2 id="DESSER-甜品篇"><a href="#DESSER-甜品篇" class="headerlink" title="DESSER 甜品篇"></a>DESSER 甜品篇</h2><h3 id="非常惊艳：Lab-Orange"><a href="#非常惊艳：Lab-Orange" class="headerlink" title="非常惊艳：Lab Orange"></a>非常惊艳：Lab Orange</h3><img src="https://mmbiz.qpic.cn/mmbiz_jpg/ALq2cia7vGr00wuLickulX19He2KqhRk6gEz18ZXRl5Iaic58j0LOps3v39CGSgOIo6RDFA6wOqDXftzkcbuQsNYg/640?wx_fmt=jpeg" width="500">
+
+<p>漂亮下午茶店！肉桂卷很好吃（肉桂星人狂喜！），可露丽第一次尝试也被狠狠惊艳！</p>
+<p>ps 这家店好像有港中深外卖群，可送到上下园<br>📍具体位置：吉祥D口附近<br>💰人均消费：￥40左右</p>
+<h3 id="面包脑袋：川平面包屋"><a href="#面包脑袋：川平面包屋" class="headerlink" title="面包脑袋：川平面包屋"></a>面包脑袋：川平面包屋</h3><img src="https://mmbiz.qpic.cn/mmbiz_jpg/ALq2cia7vGr00wuLickulX19He2KqhRk6gH1brDeq203eFRuR7icJtXLNHx3oadeXqQFakYbZdYLlUk92Axkv5pRg/640?wx_fmt=jpeg" width="500">
+
+<p>面包脑袋超喜欢的一家！还有校内外卖群~会随机掉落小礼物<br>📍具体位置：龙城CC创意街区<br>💰人均消费：￥30左右</p>
+<h3 id="低糖平价：禧芋甜品"><a href="#低糖平价：禧芋甜品" class="headerlink" title="低糖平价：禧芋甜品"></a>低糖平价：禧芋甜品</h3><img src="https://mmbiz.qpic.cn/mmbiz_jpg/ALq2cia7vGr00wuLickulX19He2KqhRk6gc46AGO2StmZ4f5r18GEiaicFyZlEiae2UwOQ3Et1I3SH1ea7rNzwMwTxQ/640?wx_fmt=jpeg" width="500">
+
+<p>喜欢糯叽叽的麻糍！低糖甜品平价又量大<br>📍具体位置：吉祥附近<br>💰人均消费：￥20左右</p>
+<hr>
+<p>什么？你最喜欢的餐厅没有被提名？</p>
+<p>欢迎公众号后台投稿或进入CA小程序分享你最爱的龙大美食！期待美食总结的第二弹哦~</p>
+<img src="https://mmbiz.qpic.cn/mmbiz_png/GhyMA80sXD4RJNML42BlyW76DLRhGrLuuVxyAsJ9Uk2Fhnz2PfP0RH29icUUum4yfuDOms4esqxaKCzTiaSYyHmg/640?wx_fmt=png" width="500">]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>LGU指南</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>社交媒体</title>
+    <url>/cuhksz/social/</url>
+    <content><![CDATA[<table>
+<tr><td>
+点击链接加入【港中深（龙大）建站交流群】: <a href="https://qm.qq.com/q/9kcRaJugec">https://qm.qq.com/q/9kcRaJugec</a>
+<img src="https://cdn.jsdelivr.net/gh/dsanying/ImgHosting@cuhksz/qq_website.jpg" width="200">
+</td><td>
+点击链接加入【港中深（龙大）聊天交流群】: <a href="https://qm.qq.com/q/pZ3j9BowaA">https://qm.qq.com/q/pZ3j9BowaA</a>
+<img src="https://cdn.jsdelivr.net/gh/dsanying/ImgHosting@cuhksz/qq_chat.jpg" width="200">
+</td></tr>
+
+<tr><td>
+扫码关注龙大学生自营的微信公众号"神仙湖畔的薯塔"
+<img src="https://cdn.jsdelivr.net/gh/dsanying/ImgHosting@cuhksz/ca_qrcode.jpg" width="200">
+</td><td>
+</td></tr>
+</table>]]></content>
+  </entry>
+  <entry>
     <title>LGU​便捷生活（二） - - 如何乘坐校园巴士与校外巴士</title>
     <url>/cuhksz/lgu-guide-6/</url>
     <content><![CDATA[<meta name="referrer" content="never"/>
@@ -1109,36 +1140,5 @@
       <tags>
         <tag>LGU指南</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>校园地图</title>
-    <url>/cuhksz/map/</url>
-    <content><![CDATA[<h2 id="校园导览图"><a href="#校园导览图" class="headerlink" title="校园导览图"></a>校园导览图</h2><p><img src="https://www.cuhk.edu.cn/sites/webmaster.prod1.dpsite04.cuhk.edu.cn/files/styles/crop_freeform/public/2023-09/map%20230914.jpg?itok=91XM32Ss"></p>
-<h2 id="校园VR地图"><a href="#校园VR地图" class="headerlink" title="校园VR地图"></a>校园VR地图</h2><div style="position: relative; padding: 30% 45%;">
-  <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://www.720yun.com/t/b2vkuqqer8b?scene_id=42010961&from=timeline&isappinstalled=0#scene_id=42010961" frameborder="1" scrolling="yes" width="320" height="240">
-    <a href="https://www.720yun.com/t/b2vkuqqer8b?scene_id=42010961&from=timeline&isappinstalled=0#scene_id=42010961">你的浏览器可能不支持iframe,请点击这里跳转相关页面</a>
-  </iframe>
-</div>
-
-<p style="text-align: center;"><a  href="https://www.720yun.com/t/b2vkuqqer8b?scene_id=42010961&from=timeline&isappinstalled=0#scene_id=42010961">点此打开全屏VR地图</a></p>]]></content>
-  </entry>
-  <entry>
-    <title>社交媒体</title>
-    <url>/cuhksz/social/</url>
-    <content><![CDATA[<table>
-<tr><td>
-点击链接加入【港中深（龙大）建站交流群】: <a href="https://qm.qq.com/q/9kcRaJugec">https://qm.qq.com/q/9kcRaJugec</a>
-<img src="https://cdn.jsdelivr.net/gh/dsanying/ImgHosting@cuhksz/qq_website.jpg" width="200">
-</td><td>
-点击链接加入【港中深（龙大）聊天交流群】: <a href="https://qm.qq.com/q/pZ3j9BowaA">https://qm.qq.com/q/pZ3j9BowaA</a>
-<img src="https://cdn.jsdelivr.net/gh/dsanying/ImgHosting@cuhksz/qq_chat.jpg" width="200">
-</td></tr>
-
-<tr><td>
-扫码关注龙大学生自营的微信公众号"神仙湖畔的薯塔"
-<img src="https://cdn.jsdelivr.net/gh/dsanying/ImgHosting@cuhksz/ca_qrcode.jpg" width="200">
-</td><td>
-</td></tr>
-</table>]]></content>
   </entry>
 </search>
