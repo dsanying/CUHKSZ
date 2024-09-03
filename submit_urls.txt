@@ -1,8 +1,12 @@
+https://dsanying.github.io/cuhksz/dorm/
+https://dsanying.github.io/cuhksz/book/
+https://dsanying.github.io/cuhksz/handbook/
+https://dsanying.github.io/cuhksz/contact-school/
+https://dsanying.github.io/cuhksz/social/
 https://dsanying.github.io/cuhksz/PED/
 https://dsanying.github.io/cuhksz/about/
 https://dsanying.github.io/cuhksz/course-evaluation/
 https://dsanying.github.io/cuhksz/IT-guide/
-https://dsanying.github.io/cuhksz/social/
 https://dsanying.github.io/cuhksz/lgu-guide-6/
 https://dsanying.github.io/cuhksz/lgu-guide-5/
 https://dsanying.github.io/cuhksz/lgu-guide-4/
@@ -10,6 +14,4 @@ https://dsanying.github.io/cuhksz/lgu-guide-3/
 https://dsanying.github.io/cuhksz/lgu-guide-2/
 https://dsanying.github.io/cuhksz/lgu-guide-1/
 https://dsanying.github.io/cuhksz/lgu-guide-7/
-https://dsanying.github.io/cuhksz/handbook/
-https://dsanying.github.io/cuhksz/contact-school/
 https://dsanying.github.io/cuhksz/map/
