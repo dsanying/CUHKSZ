@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://dsanying.github.io/cuhksz/course/</loc>
+    
+    <lastmod>2024-09-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://dsanying.github.io/cuhksz/medical-insurance/</loc>
     
     <lastmod>2024-09-07</lastmod>
@@ -75,15 +84,6 @@
   
   <url>
     <loc>https://dsanying.github.io/cuhksz/lgu-guide-7/</loc>
-    
-    <lastmod>2024-09-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://dsanying.github.io/cuhksz/course/</loc>
     
     <lastmod>2024-09-04</lastmod>
     
