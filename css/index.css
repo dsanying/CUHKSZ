@@ -5669,55 +5669,6 @@ span.tags-punctuation i {
   content: '';
   z-index: -1;
 }
-#footer div#st-footer-bar {
-  display: -webkit-box;
-  display: -moz-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: box;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -moz-box-orient: vertical;
-  -o-box-orient: vertical;
-  -webkit-flex-direction: column;
-  -ms-flex-direction: column;
-  flex-direction: column;
-  -webkit-box-align: center;
-  -moz-box-align: center;
-  -o-box-align: center;
-  -ms-flex-align: center;
-  -webkit-align-items: center;
-  align-items: center;
-  margin-top: 16px;
-}
-#footer div#st-footer-bar a.footer-bar-link {
-  padding: 4px 16px;
-  background: var(--efu-secondbg);
-  border-radius: 20px;
-  margin-top: 8px;
-  font-size: 14px;
-  cursor: pointer;
-  border: var(--style-border-always);
-}
-#footer div#st-footer-bar a.footer-bar-link:hover {
-  background: var(--efu-main);
-  color: var(--efu-white);
-  -webkit-transform: scale(1.1);
-  -moz-transform: scale(1.1);
-  -o-transform: scale(1.1);
-  -ms-transform: scale(1.1);
-  transform: scale(1.1);
-  border-color: var(--efu-main);
-}
-#footer div#st-footer-bar .footer-logo {
-  font-size: 24px;
-}
-#footer div#st-footer-bar .footer-bar-description {
-  color: var(--efu-secondtext);
-  font-weight: 700;
-  padding: 0 0.5rem;
-  text-align: center;
-}
 #footer #footer_deal {
   -webkit-box-pack: center;
   -moz-box-pack: center;
@@ -13152,10 +13103,10 @@ div#banners .bannerText {
   }
 }
 [data-theme=dark] {
-  --efu-theme: #425aef;
-  --efu-theme-op: rgba(66,90,239,0.137);
-  --efu-theme-op-deep: rgba(66,90,239,0.867);
-  --efu-theme-none: rgba(66,90,239,0);
+  --efu-theme: #8794ff;
+  --efu-theme-op: rgba(135,148,255,0.137);
+  --efu-theme-op-deep: rgba(135,148,255,0.867);
+  --efu-theme-none: rgba(135,148,255,0);
   --efu-blue: #0084ff;
   --efu-red: #ff3842;
   --efu-pink: #d44040;
