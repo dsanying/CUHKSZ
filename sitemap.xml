@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://dsanying.github.io/cuhksz/about/</loc>
+    
+    <lastmod>2024-11-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dsanying.github.io/cuhksz/material/</loc>
+    
+    <lastmod>2024-11-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://dsanying.github.io/cuhksz/social/</loc>
+    
+    <lastmod>2024-11-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://dsanying.github.io/cuhksz/ios-printing-bug/</loc>
     
     <lastmod>2024-11-28</lastmod>
@@ -14,15 +41,6 @@
     <loc>https://dsanying.github.io/cuhksz/CEC1010/</loc>
     
     <lastmod>2024-11-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://dsanying.github.io/cuhksz/social/</loc>
-    
-    <lastmod>2024-11-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -50,15 +68,6 @@
     <loc>https://dsanying.github.io/cuhksz/IT-guide/</loc>
     
     <lastmod>2024-11-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://dsanying.github.io/cuhksz/material/</loc>
-    
-    <lastmod>2024-09-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -194,15 +203,6 @@
     <loc>https://dsanying.github.io/cuhksz/contact-school/</loc>
     
     <lastmod>2024-09-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://dsanying.github.io/cuhksz/about/</loc>
-    
-    <lastmod>2024-09-02</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
